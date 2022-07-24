@@ -1,69 +1,58 @@
-# The best deploy experience
+---
+title: "Introduction"
+description: "Doks is a Hugo theme for building secure, fast, and SEO-ready documentation websites, which you can easily update and customize."
+lead: "Doks is a Hugo theme for building secure, fast, and SEO-ready documentation websites, which you can easily update and customize."
+date: 2020-10-06T08:48:57+00:00
+lastmod: 2020-10-06T08:48:57+00:00
+draft: false
+images: []
+menu:
+  docs:
+    parent: "prologue"
+weight: 100
+toc: false
+---
 
-## Intro
+## Get started
 
-[bohr.io](https://bohr.io/) is a free fullstack deploy platform focused on **developer experience**.
+There are two main ways to get started with Doks:
 
-Here you can host for free your projects, websites, blogs, landing pages, e-commerces, APIs, platforms or any other web application.
+### Tutorial
 
-Like Github, bohr.io is being built on bohr.io. It means that **there are no limits to what you can build here** - from small projects to large platforms with high volume of access. 
+{{< alert icon="👉" text="The Tutorial is intended for novice to intermediate users." />}}
 
-## Technology
+Step-by-step instructions on how to start a new Doks project. [Tutorial →](https://getdoks.org/tutorial/introduction/)
 
-bohr.io is built with the most advanced infrastructure technologies. We are 100% **serverless** and much of the platform runs directly on the **edge**, enabling the experience with the lowest possible latency. 
+### Quick Start
 
-For example: if you now run `npx bohr` in your terminal, bohr.io raises a local development server and automatically creates a tunnel so you can share an external URL pointing to your localhost. This tunnel will be created on the edge server closest to you.
+{{< alert icon="👉" text="The Quick Start is intended for intermediate to advanced users." />}}
 
-_**Serverless computing powered by AWS, and edge computing powered by Cloudflare, make bohr.io auto-scalable, as so all the applications hosted here**_.
+One page summary of how to start a new Doks project. [Quick Start →]({{< relref "quick-start" >}})
 
-## Developer Experience
+## Go further
 
-**bohr.io is fully integrated with Github**. When you click *Use this template*, bohr.io is automatically triggered from **Github Actions**, builds and deploys a new environment and makes it available directly on Github:
+Recipes, Reference Guides, Extensions, and Showcase.
 
-[PRINTS from GITHUB HERE]
+### Recipes
 
-## Supported Languages
+Get instructions on how to accomplish common tasks with Doks. [Recipes →](https://getdoks.org/docs/recipes/project-configuration/)
 
-## Supported Frameworks
+### Reference Guides
 
+Learn how to customize Doks to fully make it your own. [Reference Guides →](https://getdoks.org/docs/reference-guides/security/)
 
-## Features
+### Extensions
 
- - Envs
- - Authenticação
- - Tunel
- - Built-in CMS
+Get instructions on how to add even more to Doks. [Extensions →](https://getdoks.org/docs/extensions/breadcrumb-navigation/)
 
-## Configuration
+### Showcase
 
- - Build commands
- - Runtimes
+See what others have build with Doks. [Showcase →](https://getdoks.org/showcase/electric-blocks/)
 
-## Community
+## Contributing
 
-## Testing a quote
+Find out how to contribute to Doks. [Contributing →](https://getdoks.org/docs/contributing/how-to-contribute/)
 
-> _**bohr.io is built with the most advanced infrastructure technologies. We are 100% serverless and much of the platform runs directly on the edge, enabling the experience with the lowest possible latency**_ - Lucas Boemeke, CTO at bohr.io
+## Help
 
-## Usage
-
-```
-name: bohr.io deploy
-on: push
-permissions: write-all
-jobs:
-  deploy:
-    name: Deploy on bohr.io
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v3
-      - uses: bohr-io/action@main	  
-```
-
-## Testing a table
-
-| First header  | Second header | 
-| :---: | :---: |
-| Content cell  | Content cell  |
-| Content cell  | Content cell  |
-| Content cell  | Content cell  |
+Get help on Doks. [Help →]({{< relref "how-to-update" >}})

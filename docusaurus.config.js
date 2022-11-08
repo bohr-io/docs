@@ -60,7 +60,7 @@ const config = {
         title: 'bohr.io Docs',
         logo: {
           alt: 'bohr.io Logo',
-          src: 'img/logo.svg',
+          src: 'img/favicon.ico',
         },
         items: [
           {

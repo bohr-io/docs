@@ -6,8 +6,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Bohr.io docs',
-  tagline: 'Bohr.io documentation',
+  title: 'bohr.io docs',
+  tagline: 'bohr.io documentation',
   url: 'https://docs.bohr.io',
   baseUrl: '/',
   onBrokenLinks: 'throw',
@@ -17,7 +17,7 @@ const config = {
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'bohr-io', // Usually your GitHub org/user name.
-  projectName: 'bohr.io', // Usually your repo name.
+  projectName: 'docs', // Usually your repo name.
 
   // Even if you don't use internalization, you can use this field to set useful
   // metadata like html lang. For example, if your site is Chinese, you may want
@@ -57,7 +57,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'Bohr.io Docs',
+        title: 'bohr.io Docs',
         logo: {
           alt: 'bohr.io Logo',
           src: 'img/logo.svg',
@@ -93,10 +93,6 @@ const config = {
             title: 'Community',
             items: [
               {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-              },
-              {
                 label: 'Discord',
                 href: 'https://discordapp.com/invite/docusaurus',
               },
@@ -120,7 +116,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} Bohr.io. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} bohr.io. Built with Docusaurus.`,
       },
       prism: {
         theme: lightCodeTheme,

@@ -124,7 +124,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} bohr.io. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} bohr.io.`,
       },
       prism: {
         theme: lightCodeTheme,

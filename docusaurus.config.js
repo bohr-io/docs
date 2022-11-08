@@ -115,7 +115,7 @@ const config = {
             items: [
               {
                 label: 'Blog',
-                to: '/blog',
+                to: 'https://blog.bohr.io',
               },
               {
                 label: 'GitHub',

@@ -58,17 +58,19 @@ const config = {
         respectPrefersColorScheme: false,
       },
       navbar: {
-        title: 'bohr.io Docs',
+        title: 'bohr.io',
         logo: {
-          alt: 'bohr.io Logo',
+          alt: 'bohr.io logo',
           src: 'img/favicon.ico',
+          href: 'https://bohr.io',
+          target: '_parent'
         },
         items: [
           {
             type: 'doc',
             docId: 'start',
             position: 'left',
-            label: 'Tutorial',
+            label: 'Docs',
           },
           {
             to: 'https://blog.bohr.io',

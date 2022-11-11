@@ -22,3 +22,9 @@
   align-items: center;
   justify-content: center;
 }
+
+.bohr-login-button {
+  color: black;
+  background-color: #F4CC3A;
+  font-weight: bold;
+}

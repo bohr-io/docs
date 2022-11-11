@@ -77,10 +77,12 @@ const config = {
             label: 'Blog', position: 'left'
           },
           {
-            href: 'https://bohr.io/home',
-            html: '<a href="https://bohr.io/home" class="button button--default" style="background-color: #F4CC3A;"><img src="img/github.svg" alt="Github" width="20" height="20" style="vertical-align: middle;"> Login</a>',
+            to: 'https://bohr.io/home',
+            target: '_parent',
+            //label: 'Signup',
+            html: '<span><img src="img/github.svg" alt="Github" width="20" height="20" style="vertical-align: middle;"> Login</span>',
             position: 'right',
-            'aria-label': 'Login'
+            className: 'button button--default bohr-login-button_src-pages-index-module'
           },
         ],
       },

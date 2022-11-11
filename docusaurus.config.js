@@ -77,9 +77,10 @@ const config = {
             label: 'Blog', position: 'left'
           },
           {
-            href: 'https://github.com/bohr-io',
-            label: 'GitHub',
+            href: 'https://bohr.io/home',
+            html: '<a href="https://bohr.io/home" class="button button--default" style="background-color: #F4CC3A;"><img src="img/github.svg" alt="Github" width="20" height="20" style="vertical-align: middle;"> Login</a>',
             position: 'right',
+            //label: 'Login'
           },
         ],
       },

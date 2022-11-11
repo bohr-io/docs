@@ -28,3 +28,9 @@
   --ifm-color-primary-lightest: #F86419;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
+
+.bohr-login-button {
+  color: black;
+  background-color: #F4CC3A;
+  font-weight: bold;
+}

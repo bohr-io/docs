@@ -80,7 +80,7 @@ const config = {
           to: 'https://bohr.io/login',
           target: '_parent',
           //label: 'Signup',
-          html: '<img src="img/github.svg" alt="Github" width="20" height="20" style="vertical-align: middle;"> Login',
+          html: '<img src="/img/github.svg" alt="Github" width="20" height="20" style="vertical-align: middle;"> Login',
           position: 'right',
           className: 'button button--default button--lg bohr-login-button'
         },

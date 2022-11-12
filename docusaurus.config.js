@@ -85,9 +85,6 @@ const config = {
           className: 'button button--default button--lg bohr-login-button'
         },
       ],
-      hotjar: {
-        applicationId: '3244310',
-      },
     },
     footer: {
       style: 'dark',
@@ -133,6 +130,9 @@ const config = {
     prism: {
       theme: lightCodeTheme,
       darkTheme: darkCodeTheme,
+    },
+    hotjar: {
+      applicationId: '3244310',
     },
   }),
 

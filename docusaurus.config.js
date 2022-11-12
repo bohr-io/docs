@@ -50,88 +50,95 @@ const config = {
   ],
 
   themeConfig:
-    /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
-    ({
-      colorMode: {
-        defaultMode: 'dark',
-        disableSwitch: true,
-        respectPrefersColorScheme: false,
+  /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
+  ({
+    colorMode: {
+      defaultMode: 'dark',
+      disableSwitch: true,
+      respectPrefersColorScheme: false,
+    },
+    navbar: {
+      title: 'bohr.io',
+      logo: {
+        alt: 'bohr.io logo',
+        src: 'img/favicon.ico',
+        href: 'https://bohr.io',
+        target: '_parent'
       },
-      navbar: {
-        title: 'bohr.io',
-        logo: {
-          alt: 'bohr.io logo',
-          src: 'img/favicon.ico',
-          href: 'https://bohr.io',
-          target: '_parent'
+      items: [
+        {
+          type: 'doc',
+          docId: 'start',
+          position: 'left',
+          label: 'Docs',
         },
-        items: [
-          {
-            type: 'doc',
-            docId: 'start',
-            position: 'left',
-            label: 'Docs',
-          },
-          {
-            to: 'https://blog.bohr.io',
-            label: 'Blog', position: 'left'
-          },
-          {
-            to: 'https://bohr.io/login',
-            target: '_parent',
-            //label: 'Signup',
-            html: '<img src="img/github.svg" alt="Github" width="20" height="20" style="vertical-align: middle;"> Login',
-            position: 'right',
-            className: 'button button--default button--lg bohr-login-button'
-          },
-        ],
+        {
+          to: 'https://blog.bohr.io',
+          label: 'Blog', position: 'left'
+        },
+        {
+          to: 'https://bohr.io/login',
+          target: '_parent',
+          //label: 'Signup',
+          html: '<img src="img/github.svg" alt="Github" width="20" height="20" style="vertical-align: middle;"> Login',
+          position: 'right',
+          className: 'button button--default button--lg bohr-login-button'
+        },
+      ],
+      hotjar: {
+        applicationId: '3244310',
       },
-      footer: {
-        style: 'dark',
-        links: [
-          {
-            title: 'Docs',
-            items: [
-              {
-                label: 'Tutorial',
-                to: '/docs/start',
-              },
-            ],
-          },
-          {
-            title: 'Community',
-            items: [
-              {
-                label: 'Discord',
-                href: 'https://discord.com/invite/p3hhfGg2Uy',
-              },
-              {
-                label: 'Twitter',
-                href: 'https://twitter.com/bohr_io',
-              },
-            ],
-          },
-          {
-            title: 'More',
-            items: [
-              {
-                label: 'Blog',
-                to: 'https://blog.bohr.io',
-              },
-              {
-                label: 'GitHub',
-                href: 'https://github.com/bohr-io',
-              },
-            ],
-          },
-        ],
-        copyright: `Copyright © ${new Date().getFullYear()} bohr.io.`,
-      },
-      prism: {
-        theme: lightCodeTheme,
-        darkTheme: darkCodeTheme,
-      },
-    }),
+    },
+    footer: {
+      style: 'dark',
+      links: [
+        {
+          title: 'Docs',
+          items: [
+            {
+              label: 'Tutorial',
+              to: '/docs/start',
+            },
+          ],
+        },
+        {
+          title: 'Community',
+          items: [
+            {
+              label: 'Discord',
+              href: 'https://discord.com/invite/p3hhfGg2Uy',
+            },
+            {
+              label: 'Twitter',
+              href: 'https://twitter.com/bohr_io',
+            },
+          ],
+        },
+        {
+          title: 'More',
+          items: [
+            {
+              label: 'Blog',
+              to: 'https://blog.bohr.io',
+            },
+            {
+              label: 'GitHub',
+              href: 'https://github.com/bohr-io',
+            },
+          ],
+        },
+      ],
+      copyright: `Copyright © ${new Date().getFullYear()} bohr.io.`,
+    },
+    prism: {
+      theme: lightCodeTheme,
+      darkTheme: darkCodeTheme,
+    },
+  }),
+
+  plugins: [
+    'docusaurus-plugin-hotjar',
+  ]
 };
 
 module.exports = config;

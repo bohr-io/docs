@@ -4,7 +4,7 @@ sidebar_position: 9
 
 # Template - Dashboard
 
-<p style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/nxvmC0qXd4c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+<div style={{textAlign: 'center'}}><iframe width="560" height="315" src="https://www.youtube.com/embed/nxvmC0qXd4c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 O Dashboard Template já vem com algumas variáveis de ambiente configuradas para fazer a compilação, mas, principalmente, ele já vem com uma string de conexão com um banco de dados que está hospedado no PlanetScale. Este banco de dados não aceita alteração de estrutura (somente de dados).
 

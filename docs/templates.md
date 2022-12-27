@@ -4,7 +4,7 @@ sidebar_position: 3
 
 # Templates
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yXQswsMDC1Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<p style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/yXQswsMDC1Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
 
 Atualmente, o bohr.io disponibiliza alguns templates gratuitos livres para uso:
 

@@ -4,7 +4,7 @@ sidebar_position: 5
 
 # Project - Settings
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djtSHk-fqrs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<p style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/djtSHk-fqrs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
 
 Na tela se Settings é muito importante notar que o campo All Deploys define quais são são as configurações que você está setando.
 

@@ -4,7 +4,7 @@ sidebar_position: 10
 
 # Domains
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDTs9YMLDFY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<p style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/yDTs9YMLDFY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
 
 No bohr.io é possível adicionar um domínio que você possua para utilizar dentro dos seus sites. Na primeira vez que adiciona, você vai parar na tela Setting the nameservers, com orientações sobre como configurar os nameservers dentro de onde o seu domínio foi adquirido.
 

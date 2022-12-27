@@ -4,7 +4,7 @@ sidebar_position: 6
 
 # Preview deploys
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dhCFLx4qvFk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<p style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/dhCFLx4qvFk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
 
 Preview deploys são todas as publicações que não são a produção - ou seja, que não são a sua publicação principal.
 

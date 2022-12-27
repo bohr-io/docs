@@ -4,7 +4,7 @@ sidebar_position: 2
 
 # Variáveis de Ambiente
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/CNx7kQZ5-II" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<p style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/CNx7kQZ5-II" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
 
 As variáveis de ambiente do [borh.io](http://bohr.io "borh.io") são muito úteis para armazenar credenciais de bancos de dados e chaves de APIs, entre outros exemplos.
 

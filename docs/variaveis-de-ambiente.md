@@ -15,4 +15,4 @@ Atualmente, o [borh.io](http://bohr.io "borh.io") utiliza por padrão algumas va
 - DEPLOY_PATH
 - PUBLIC_PATH
 
-as quais podem ser alterar no menu Build & Desenvolvimento nas configurações de seu projeto.
+... as quais podem ser alteradas no menu **Build & Desenvolvimento** nas configurações de seu projeto.

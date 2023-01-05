@@ -16,4 +16,4 @@ cd app-template
 npx -y bohr@latest dev
 ````
 
-Se as configurações de variáveis de ambiente e de dev CMD estiverem certas, o comando vai rodar perfeitamente. Caso surja algum problema, pode nos chamar no [Discord](https://discord.com/invite/p3hhfGg2Uy) para receber ajuda.
+Se as configurações de **variáveis de ambiente** e de **dev CMD** estiverem certas, o comando vai rodar perfeitamente. Caso surja algum problema, pode nos chamar no [Discord](https://discord.com/invite/p3hhfGg2Uy) para receber ajuda.

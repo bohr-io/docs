@@ -16,6 +16,18 @@ Na hora de criar um site no bohr.io você pode [escolher um template](https://do
 
 Conheça outros recursos da plataforma.
 
+### Fullstack
+
+Você pode publicar projetos com **front-end** e **back-end**. Basta colocar sua API (em Node.js) na pasta API. Você pode obter mais informações no template [Dashboard](https://docs.bohr.io/docs/dashboard-template), por exemplo.
+
+### Logs
+
+Com o bohr.io você pode visualizar os **logs do seu back-end** dentro da plataforma, através do menu [Logs](https://docs.bohr.io/docs/logs).
+
+### Variaveis de Ambiente
+
+Armazene **credenciais de bancos de dados** e **chaves de APIs**, entre outros dados, na feature [Variáveis de Ambiente](https://docs.bohr.io/docs/variaveis-de-ambiente).
+
 ### Edição de conteúdo
 
 O bohr.io dispõe de um recurso básico de **edição de conteúdo** integrado à plataforma, no qual algumas alterações podem ser feitas direto na página, como inserção de links e destaques em textos (negrito, itálico etc.), entre outras.

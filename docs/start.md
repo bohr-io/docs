@@ -24,7 +24,7 @@ Você pode publicar projetos com **front-end** e **back-end**. Basta colocar sua
 
 Com o bohr.io você pode visualizar os **logs do seu back-end** dentro da plataforma, através do menu [Logs](https://docs.bohr.io/docs/logs).
 
-### Variaveis de Ambiente
+### Variáveis de Ambiente
 
 Armazene **credenciais de bancos de dados** e **chaves de APIs**, entre outros dados, na feature [Variáveis de Ambiente](https://docs.bohr.io/docs/variaveis-de-ambiente).
 
@@ -44,11 +44,11 @@ A partir das tecnologias dos **Durable Objects (Cloudflare)** e da **liveblocks*
 
 ### Visual Studio Code for the Web
 
-Na tela do projeto há um link para o **Visual Studio Code for the Web** para simplicar o trabalho do desenvolvedor na criação e na revisão dos códigos.
+Na tela do projeto há um link para o **Visual Studio Code for the Web** para simplificar o trabalho do desenvolvedor na criação e na revisão dos códigos.
 
 ### Dogfooding
 
-*Dogfooding* significa o uso dos próprios produtos. Nossa plataforma se enquadra neste conceito, uma vez que **o bohr.io é um projeto dentro do prório bohr.io**. Ou seja, vocoê pode abrir o bohr.io dentro do bohr.io (algo como o filme *Inception*, do diretor Christopher Nolan). 🤩
+*Dogfooding* significa o uso dos próprios produtos. Nossa plataforma se enquadra neste conceito, uma vez que **o bohr.io é um projeto dentro do próprio bohr.io**. Ou seja, você pode abrir o bohr.io dentro do bohr.io (algo como o filme *Inception*, do diretor Christopher Nolan). 🤩
 * * *
 No menu lateral ou nos links abaixo você pode acessar a documentação de áreas específicas do bohr.io:
 

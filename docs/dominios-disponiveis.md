@@ -7,6 +7,7 @@ sidebar_position: 14
 Lista de domínios disponíveis para registro:
 
 ```
+.com
 .com.br
 .net
 .org

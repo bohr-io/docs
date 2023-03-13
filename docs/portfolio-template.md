@@ -2,12 +2,12 @@
 sidebar_position: 7
 ---
 
-# Template - portfolio
+# Template - Portfólio
 
 <div style={{textAlign: 'center'}}><iframe width="560" height="315" src="https://www.youtube.com/embed/Y14gKEz8K6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
-Este é um template bastante simples: não tem uma etapa de compilação, por exemplo, pois é HTML puro, estático. Se você quiser implementar uma API, ele já conta com uma de exemplo.
+Este é um template simples, sem etapa de compilação, por exemplo, pois é HTML puro, estático. Se você quiser implementar uma API, ele já conta com uma de exemplo.
 
-Neste momento, este é o único template do bohr.io integrado com a funcionalidade de **edição de conteúdo**. Para que esse recurso funcione, é preciso ter algumas tags no meio desse HTML.
+Neste momento, este é o único template do bohr.io integrado com a funcionalidade de **Edição de Conteúdo**. Para que esse recurso funcione, é preciso ter algumas tags no meio do c ódigo HTML.
 
-Você encontra a funcionalidade de edição de conteúdo clicando em **EDIT**, no canto superior direito da tela. Você pode editar o conteúdo direto na página e, depois de salvá-lo, ele faz o ``commit`` no GitHub .
+Você pode encontrar a funcionalidade de Edição de Conteúdo clicando em **EDIT**, no canto superior direito da tela. Você pode também editar o conteúdo direto na página e, depois de salvá-lo, o `commit` será feito automaticamente no GitHub.

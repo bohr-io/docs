@@ -6,7 +6,7 @@ sidebar_position: 1
 
 <div style={{textAlign: 'center'}}><iframe width="560" height="315" src="https://www.youtube.com/embed/yKNBdCSvUgk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
-O bohr.io é uma plataforma **serverless** feita para quem está começando a programar, ideal para quem quer fazer os seus primeiros deploys, seja de um portfólio, de um trabalho da faculdade, de um teste para uma entrevista de emprego ou qualquer outro projeto.
+O bohr.io é uma plataforma **serverless** feita para quem está começando a programar, ideal para quem quer fazer os seus primeiros deploys, seja de um portfólio, trabalho da faculdade, teste para uma entrevista de emprego ou qualquer outro projeto.
 
 É uma solução unificada para atender todas as necessidades dos iniciantes e totalmente focada na experiência do desenvolvedor. É uma ferramenta única no mercado, com usabilidade incrível.
 

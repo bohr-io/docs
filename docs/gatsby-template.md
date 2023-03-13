@@ -6,7 +6,7 @@ sidebar_position: 8
 
 <div style={{textAlign: 'center'}}><iframe width="560" height="315" src="https://www.youtube.com/embed/xcZTRqMNTAQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
-Este template já vem configurado com os comandos de compilação para rodar localmente, utilizando o **Gatsby**.
+Este template já vem configurado com os comandos de compilação para rodar localmente, utilizando o [**Gatsby**](https://www.gatsbyjs.com/).
 
 Depois da etapa de compilação, você pode ver o portfólio já publicado acessando a simulação do site na tela de **Overview**.
 

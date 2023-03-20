@@ -8,6 +8,6 @@ sidebar_position: 7
 
 Este é um template simples, sem etapa de compilação, por exemplo, pois é HTML puro, estático. Se você quiser implementar uma API, ele já conta com uma de exemplo.
 
-Neste momento, este é o único template do bohr.io integrado com a funcionalidade de **Edição de Conteúdo**. Para que esse recurso funcione, é preciso ter algumas tags no meio do c ódigo HTML.
+Neste momento, este é o único template do bohr.io integrado com a funcionalidade de **Edição de Conteúdo**. Para que esse recurso funcione, é preciso ter algumas tags no meio do código HTML.
 
 Você pode encontrar a funcionalidade de Edição de Conteúdo clicando em **EDIT**, no canto superior direito da tela. Você pode também editar o conteúdo direto na página e, depois de salvá-lo, o `commit` será feito automaticamente no GitHub.

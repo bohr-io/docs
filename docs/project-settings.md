@@ -12,6 +12,4 @@ As configurações do bohr.io são baseadas na publicação: pode ser uma `branc
 
 Por exemplo, se você selecionar a branch `main`, aparecerá a URL do site, que pode ser alterada.
 
-Todos os itens de menu, como por exemplo as **variáveis de ambiente** e os itens de **autenticação** para proteger o site com uma senha, estão sempre vinculados ao que estiver selecionado, seja `branch` ou **All Deploys** (o que significa que todas as branches terão a mesma configuração).
-
 Todos os itens do menu, como por exemplo as **variáveis de ambiente** e **autenticação**, estão vinculados ao que estiver selecionado, seja `branch` ou **All Deploys** (o que significa que todas as branches terão a mesma configuração).

@@ -10,4 +10,6 @@ No bohr.io você pode configurar uma autenticação, tanto para todos os ambient
 
 A autenticação do bohr.io permite que você inclua vários usuários e senhas.
 
-Por enquanto, o bohr.io oferece somente *basic authentication*. Em breve iremos incluir outros métodos, a exemplo do **OAuth**, que vai permitir autenticações com Google, Discord e outros provedores.
+:::note
+Por enquanto, o bohr.io oferece somente **_Basic Authentication_**. Em breve iremos incluir outros métodos, a exemplo do **OAuth**, que vai permitir autenticações com Google, Discord e outros provedores.
+:::

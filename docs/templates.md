@@ -8,9 +8,10 @@ sidebar_position: 3
 
 Atualmente, o bohr.io disponibiliza alguns templates gratuitos livres para uso:
 
-- **portfólio simples** (que é o que está integrado com a funcionalidade de edição de conteúdo direto na página);
-- **portfólio com build em Gatsby** (uma boa referência se você quiser usar **SSG** - *Static Site Generation*) ;
-- **dashboard com um CRUD básico**, com operações do **banco de dados SQL PlanetScale** (ao clicar nele, é criado um projeto automaticamente com a base de dados pública já configurada, que foi feita para você poder ver tudo funcionando desde a primeira vez, e que você pode depois trocar nas variáveis de ambiente para as credenciais da sua base);
+- **Portólio Simples**: Integrado com a funcionalidade de Edição de Conteúdo direto na página;
+- **Portólio com build em Gatsby**: Como usar **_Static Site Generation_** com Gatsby;
+- **Dashboard com CRUD básico com PlanetScale**: Um exemplo de como usar o PlanetScale para criar um CRUD básico;
+
 - **teste de velocidade usando a API da Cloudflare** que você pode gerar e customizar.
 
-Estamos sempre ampliando o número de templates (inclusive é possível utilizar templates criados por outros usuários da comunidade).
+Estamos sempre ampliando o número de templates, inclusive é possível utilizar templates criados por usuários da comunidade.

@@ -6,10 +6,10 @@ sidebar_position: 11
 
 <div style={{textAlign: 'center'}}><iframe width="560" height="315" src="https://www.youtube.com/embed/giELfU942Dw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
-Na tela de **Logs**, se clicar no ícone do Visual Studio Code for Web (canto superior direito), você verá no código uma API simples com um ``console log``, o qual vai aparecer na área de logs sempre que essa API for acessada e que você estiver com essa página aberta (ela só captura em tempo real).
+Ao abrir a página de **Logs**, você pode clicar no ícone do Visual Studio Code for Web (canto superior direito) para ver o código de uma API simples com um `console.log`. Sempre que essa API for acessada e a página de Logs estiver aberta, o log vai aparecer na área de logs em tempo real.
 
-Para acessar essa API, você pode voltar no **Overview** do site, abri-lo em uma nova aba e acessar ``/api``. A requisição vai bater na API. Daí você pode voltar nos logs e, se for preciso, atualizar a página até que eles apareçam. 
+Para acessar a API, volte para a página **Overview** do site, abra-a em uma nova aba e acesse `/api`. Isso fará com que a solicitação chegue à API. Depois, você pode voltar para a página de Logs e atualizá-la, se necessário, até que os logs apareçam.
 
-O processo é instantâneo, graças aos **websockets** e aos **Durable Objects da Cloudflare**. 
+Graças aos **Web Sockets** e aos **Durable Objects da CloudFlare**, o processo é instantâneo.
 
-Estamos trabalhando em features para permitir o download dos dados e também para que eles fiquem armazenados no seu *local storage*. 
+Estamos trabalhando em funcionalidades para permitir o download dos dados e armazená-los em _Local Storage_.

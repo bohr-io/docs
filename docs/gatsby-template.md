@@ -4,7 +4,7 @@ sidebar_position: 8
 
 # Template - Gatsby
 
-<div style={{textAlign: 'center'}}><iframe width="560" height="315" src="https://www.youtube.com/embed/xcZTRqMNTAQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div style={{textAlign: 'center'}}><iframe width="560" height="315" src="https://www.youtube.com/embed/xcZTRqMNTAQ" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe></div>
 
 Este template já vem configurado com os comandos de compilação para rodar localmente, utilizando o [**Gatsby**](https://www.gatsbyjs.com/).
 

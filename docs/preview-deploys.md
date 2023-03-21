@@ -4,7 +4,7 @@ sidebar_position: 6
 
 # Preview Deploys
 
-<div style={{textAlign: 'center'}}><iframe width="560" height="315" src="https://www.youtube.com/embed/dhCFLx4qvFk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div style={{textAlign: 'center'}}><iframe width="560" height="315" src="https://www.youtube.com/embed/dhCFLx4qvFk" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe></div>
 
 **_Preview Deploys_** são todas as publicações que não estão em ambiente de produção, ou seja, não são as publicações principais.
 

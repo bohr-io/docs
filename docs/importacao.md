@@ -4,7 +4,7 @@ sidebar_position: 4
 
 # Importação de repositórios do GitHub
 
-<div style={{textAlign: 'center'}}><iframe width="560" height="315" src="https://www.youtube.com/embed/0ctGM494f_Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div style={{textAlign: 'center'}}><iframe width="560" height="315" src="https://www.youtube.com/embed/0ctGM494f_Q" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe></div>
 
 Para importar projetos hospedados em repositórios do GitHub, acesse a página de [novo projeto](http://bohr.io/projects/new "templates disponíveis") e selecione a opção [**Importar do GitHub**](https://bohr.io/projects/new/import), no canto superior direito da tela.
 

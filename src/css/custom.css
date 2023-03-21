@@ -34,3 +34,18 @@
   background-color: #F4CC3A;
   font-weight: bold;
 }
+
+.inIframe .navbar__brand {
+  display: none;
+}
+
+@media (min-width: 997px) {
+  .inIframe .footer,
+  .inIframe .navbar {
+    display: none;
+  }
+
+  .inIframe .sidebar_node_modules-\@docusaurus-theme-classic-lib-theme-DocSidebar-Desktop-styles-module {
+    padding-top: 0;
+  }
+}

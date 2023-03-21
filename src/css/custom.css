@@ -35,12 +35,12 @@
   font-weight: bold;
 }
 
+.inIframe .footer,
 .inIframe .navbar__brand {
   display: none;
 }
 
 @media (min-width: 997px) {
-  .inIframe .footer,
   .inIframe .navbar {
     display: none;
   }

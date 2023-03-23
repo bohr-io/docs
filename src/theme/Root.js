@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { useEffect, useState } from 'react';
 
 function inIframe () {
   try {
@@ -9,8 +9,18 @@ function inIframe () {
 }
 
 export default function Root({children}) {
+  const [isInIframe, setIsInIframe] = useState(false);
+
+  useEffect(() => {
+    window.addEventListener('load', () => {
+      if (inIframe()) {
+        setIsInIframe(true);
+      }
+    });
+  }, []);
+
   return (
-    <div className={inIframe() ? 'inIframe' : ''}>
+    <div className={isInIframe ? 'inIframe' : ''}>
       {children}
     </div>
   );

@@ -6,13 +6,13 @@ sidebar_position: 1
 
 <div style={{textAlign: 'center'}}><iframe width="560" height="315" src="https://www.youtube.com/embed/yKNBdCSvUgk" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen style={{ maxWidth: '100%' }}></iframe></div>
 
-O bohr.io é uma plataforma **serverless** feita para quem está começando a programar, ideal para quem quer fazer os seus primeiros deploys, seja de um portfólio, trabalho da faculdade, teste para uma entrevista de emprego ou qualquer outro projeto.
+A bohr.io é uma plataforma **serverless** feita para quem está começando a programar, ideal para fazer os seus primeiros deploys, seja de um portfólio, trabalho da faculdade, teste para uma entrevista de emprego ou qualquer outro projeto.
 
-É uma solução unificada para atender todas as necessidades dos iniciantes e totalmente focada na experiência do desenvolvedor. É uma ferramenta única no mercado, com usabilidade incrível.
+Estamos falando de solução unificada para atender todas as necessidades dos iniciantes e totalmente focada na experiência do desenvolvedor. A bohr.io uma ferramenta única no mercado, com usabilidade incrível e sem precedentes.
 
 A plataforma é fortemente integrada ao **GitHub** - especialmente ao **GitHub Actions**, ambiente onde é feito o `build` de cada projeto.
 
-Ao criar um projeto no bohr.io, você pode [escolher um template](https://docs.bohr.io/docs/templates) ou [importar um repositório do GitHub](https://docs.bohr.io/docs/importacao) feito usando qualquer framework.
+Ao criar um projeto na bohr.io, você pode [escolher um template](https://docs.bohr.io/docs/templates) ou [importar um repositório do GitHub](https://docs.bohr.io/docs/importacao) feito usando qualquer framework.
 
 ## Funcionalidades
 
@@ -32,17 +32,17 @@ Armazene **credenciais de bancos de dados** e **chaves de APIs**, entre outros d
 
 ### Edição de Conteúdo
 
-O bohr.io dispõe de um recurso básico de **edição de conteúdo** integrado à plataforma, no qual algumas alterações podem ser feitas direto na página, como inserção de links e destaques em textos (negrito, itálico, etc.), entre outras.
+A bohr.io dispõe de um recurso básico de **edição de conteúdo** integrado à plataforma, no qual algumas alterações podem ser feitas direto na página, como inserção de links e destaques em textos (negrito, itálico, etc.), entre outras.
 
 Na tela do projeto, você também tem acesso ao link do repositório criado no GitHub.
 
 ### Visualização do Projeto
 
-O bohr.io permite que você visualize **simulações realistas e em tempo real** do seu projeto em **dispositivos móveis** (smartphones, tables) e em **diferentes tipos de monitores** (desktop e notebook).
+A bohr.io permite que você visualize **simulações realistas e em tempo real** do seu projeto em **dispositivos móveis** (smartphones, tables) e em **diferentes tipos de monitores** (desktop e notebook).
 
 ### Recurso de Colaboração
 
-A partir das tecnologias dos **Durable Objects (Cloudflare)** e da **liveblocks**, o bohr.io permite que os desenvolvedores envolvidos no mesmo projeto possam **visualizar as atividades uns dos outros em tempo real**.
+A partir das tecnologias dos **Durable Objects (Cloudflare)** e da **liveblocks**, a bohr.io permite que os desenvolvedores envolvidos no mesmo projeto possam **visualizar as atividades uns dos outros em tempo real**.
 
 ### Visual Studio Code for the Web
 
@@ -50,11 +50,11 @@ Na tela do projeto há um link para o **Visual Studio Code for the Web** para si
 
 ### _Dogfooding_
 
-_Dogfooding_ significa o uso dos próprios produtos. Nossa plataforma se enquadra neste conceito, uma vez que **o bohr.io é um projeto dentro do próprio bohr.io**. Ou seja, você pode abrir o bohr.io dentro do bohr.io (algo como o filme _Inception_, do diretor Christopher Nolan). 🤩
+_Dogfooding_ significa o uso dos próprios produtos. Nossa plataforma se enquadra neste conceito, uma vez que **o bohr.io é um projeto dentro do próprio bohr.io**. Ou seja, você pode abrir a bohr.io dentro da bohr.io (algo como o filme _Inception_, do diretor Christopher Nolan). 🤩
 
 ## Veja também
 
-No menu lateral ou nos links abaixo você pode acessar a documentação de áreas específicas do bohr.io:
+No menu lateral ou nos links abaixo você pode acessar a documentação de áreas específicas da bohr.io:
 
 - [Variáveis de Ambiente](https://docs.bohr.io/docs/variaveis-de-ambiente)
 - [Templates](https://docs.bohr.io/docs/templates)

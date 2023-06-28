@@ -12,7 +12,7 @@ Para acessá-lo, basta clicar em **Publish**. O bohr.io fará a publicação, ta
 
 Paralelamente, o bohr.io irá criar o repositório no GitHub. Você pode verificar a sua criação clicando no ícone do GitHub no canto superior direito.
 
-Você pdoe olhar o código por meio do **Visual Studio Code for Web**, clicando no canto superior direito. Lá você verá uma pasta API. O bohr.io usa o [**Prisma**](https://www.prisma.io/ "Prisma"), que é uma ORM (_object-relational mapping_) para lidar com o banco de dados.
+Você pode olhar o código por meio do **Visual Studio Code for Web**, clicando no canto superior direito. Lá você verá uma pasta API. O bohr.io usa o [**Prisma**](https://www.prisma.io/ "Prisma"), que é uma ORM (_object-relational mapping_) para lidar com o banco de dados.
 
 No código você verá também uma API simples que lida com o CRUD de usuários.
 

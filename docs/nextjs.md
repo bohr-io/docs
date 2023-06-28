@@ -32,6 +32,12 @@ Leia mais sobre como configurar a exportação estática na [documentação ofic
     PUBLIC_PATH=./out
     DEPLOY_PATH=./
     ```
+3. Em caso de não utilizar o template `next-blog-starter`, é necessário desabilitar o Image Optimization no arquivo `next.config.js`:
+    ```
+    images: {
+        unoptimized: true
+    }
+    ```
 
 ## Opção 2: Suporte Experimental para SSR
 

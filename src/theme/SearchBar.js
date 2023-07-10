@@ -2,6 +2,7 @@
 
 import React from "react";
 import EnhancedSearch from "enhancedocs-search";
+import EnhancedChat from 'enhancedocs-chat';
 
 import "enhancedocs-search/dist/style.css";
 

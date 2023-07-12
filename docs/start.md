@@ -38,7 +38,7 @@ Na tela do projeto, você também tem acesso ao link do repositório criado no G
 
 ### Visualização do Projeto
 
-A bohr.io permite que você visualize **simulações realistas e em tempo real** do seu projeto em **dispositivos móveis** (smartphones, tables) e em **diferentes tipos de monitores** (desktop e notebook).
+A bohr.io permite que você visualize **simulações realistas e em tempo real** do seu projeto em **dispositivos móveis** (smartphones, tablets) e em **diferentes tipos de monitores** (desktop e notebook).
 
 ### Recurso de Colaboração
 

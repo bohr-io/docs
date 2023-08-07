@@ -2,4 +2,4 @@
 sidebar_position: 16
 ---
 
-# Gatsby
+# [Framework] Gatsby

@@ -1,5 +1,5 @@
 ---
-sidebar_position: 19
+sidebar_position: 28
 ---
 
 # Privacy Policy

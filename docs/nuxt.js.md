@@ -2,4 +2,4 @@
 sidebar_position: 10
 ---
 
-# Nuxt.js
+# [Framework] Nuxt.js

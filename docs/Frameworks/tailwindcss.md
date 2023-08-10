@@ -2,4 +2,4 @@
 sidebar_position: 27
 ---
 
-# [Framework] Tailwind CSS
+# Tailwind CSS

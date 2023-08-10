@@ -2,4 +2,4 @@
 sidebar_position: 22
 ---
 
-# [Framework] Solid.js
+# Solid.js

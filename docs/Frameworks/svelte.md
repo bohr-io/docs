@@ -2,7 +2,7 @@
 sidebar_position: 20
 ---
 
-# [Framework] Svelte
+# Svelte
 SvelteKit is a frontend framework that empowers you to construct Svelte applications using contemporary techniques like Server-Side Rendering, automatic code splitting, and advanced routing.
 
 You have the ability to deploy your SvelteKit projects to bohr.io with effortless setup, granting you access to Preview Deployments, Web Analytics, Serverless Functions, and more.

@@ -134,7 +134,7 @@ Your mailing address, telephone number, and email address;
 A statement by you, under penalty of perjury, attesting to your good faith belief that the contested use is not authorized by the copyright owner, its agent, or the law;
 A statement by you, under penalty of perjury, affirming the accuracy of the information in your notice and your status as the copyright owner or authorized representative.
 
-Our Copyright Agent can be reached via email at: dmca@bohr.io, or by mail at 767 Bryant Street #210, San Francisco, CA 94107.
+Our Copyright Agent can be reached via email at: dmca@bohr.io, or by mail at 548 Market St PMB 91990, San Francisco, California 94104-5401.
 Intellectual Property
 The Service, along with its original content (excluding User Content contributed by users), features, and functionalities, including all associated intellectual property rights, are and will remain the sole and exclusive property of bohr.io and its licensors. The Service is safeguarded by copyright, trademark, and other laws of both the United States and foreign jurisdictions. The use of our trademarks and trade dress in connection with any product or service requires prior written consent from bohr.io.
 Links To Third Party Websites, Advertisements, and Services

@@ -26,8 +26,8 @@ Leia mais sobre como configurar a exportação estática na [documentação ofic
 2. Certifique-se de que as seguintes variáveis de ambiente estão presentes:
 
     ```
-    BUILD_CMD=next build && next export
-    DEV_CMD=next dev --port $PORT
+    BUILD_CMD=npx next build && npx next export
+    DEV_CMD=npx next dev --port $PORT
     INSTALL_CMD=npm install
     PUBLIC_PATH=./out
     DEPLOY_PATH=./
@@ -56,7 +56,7 @@ A segunda opção é habilitar o suporte experimental para SSR (Server-Side Rend
     BOHR_WEB_ADAPTER_TYPE=nextjs
     INSTALL_CMD=npm install
     BUILD_CMD=npm run build
-    DEV_CMD=next dev --port $PORT
+    DEV_CMD=npx next dev --port $PORT
     PUBLIC_PATH=./public
     DEPLOY_PATH=./
     ```

@@ -40,12 +40,16 @@
   display: none;
 }
 
+.inIframe main {
+  min-height: 100vh;
+}
+
 @media (min-width: 997px) {
   .inIframe .navbar {
     display: none;
   }
 
-  .inIframe .sidebar_njMd {
+  .inIframe .theme-doc-sidebar-container > div {
     padding-top: 0;
   }
 }

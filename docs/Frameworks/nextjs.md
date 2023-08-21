@@ -1,4 +1,4 @@
-# Deploy de Projetos Next.js na bohr.io
+# Next.js
 
 A plataforma Bohr.io fornece duas principais opções para implantar projetos que utilizam o framework Next.js. Este guia irá ajudá-lo a entender e escolher a opção que melhor atende às suas necessidades.
 

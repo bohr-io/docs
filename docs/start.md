@@ -12,7 +12,52 @@ Estamos falando de solução unificada para atender todas as necessidades dos in
 
 A plataforma é fortemente integrada ao **GitHub** - especialmente ao **GitHub Actions**, ambiente onde é feito o `build` de cada projeto.
 
-Ao criar um projeto na bohr.io, você pode [escolher um template](https://docs.bohr.io/docs/templates) ou [importar um repositório do GitHub](https://docs.bohr.io/docs/importacao) feito usando qualquer framework.
+## Começando no Bohr
+
+Antes de tudo, você deve ter uma conta no Bohr.io, depois para criar um projeto na bohr.io, você pode [escolher um template](https://docs.bohr.io/docs/Templates/default-templates) ou [importar um repositório do GitHub](https://docs.bohr.io/docs/importacao) feito usando qualquer framework, além disso,  também é possível criar diretamente um novo projeto pelo terminal e já fazer o deploy no Bohr diretamente!
+
+### Usando um template
+
+Para utilizar um template, navegue até a [página de projetos](https://bohr.io/projects), clique em "Adicionar novo projeto" e selecione o template que deseja utilizar.
+![templates do Bohr](https://github.com/bohr-io/docs/assets/69644385/92be8efa-a15a-4cfa-bedb-2b92f4ab6055)
+
+Em seguida, defina o subdomínio desejado, domínio, nome do usuário e repositório no GitHub. Nesta etapa talvez seja necessário adicionar permissões ao Bohr, caso não tenha feito isso anteriormente. Agora é só utilizar as variáveis de build e desenvolvimento e de ambiente já preparadas pelo template e publicar seu projeto!
+
+![dados sobre o projeto](https://github.com/bohr-io/docs/assets/69644385/f3563bcc-4194-48a8-8b65-f6d50561aa43)
+
+Pronto, seu projeto já está no ar pronto para ser acessado, agora você pode editar seu código e aproveitar do CI/CD do Bohr junto com as GitHub Actions para fazer deploys automáticos das suas alterações.
+
+![página do projeto](https://github.com/bohr-io/docs/assets/69644385/2865d293-ae4c-48d9-acbe-4e657c09877a)
+
+### Importando um projeto
+
+Para importar um projeto, navegue até a [página de projetos](https://bohr.io/projects), clique em "Adicionar novo projeto" e em seguida clique em "Importar do Github". Agora selecione o repositório com o projeto que deseja importar, nesta etapa talvez seja necessário adicionar permissões ao Bohr, caso não tenha feito isso anteriormente.
+![importar projeto](https://github.com/bohr-io/docs/assets/69644385/d8e7e371-47d8-4b72-9657-5730c8ea94dc)
+
+Em seguida, defina o subdomínio desejado, domínio e variáveis de ambiente desejados.
+![dados sobre o projeto](https://github.com/bohr-io/docs/assets/69644385/f55b821b-7bc2-47eb-9799-ec5c14b3498e)
+
+Pronto, agora o bohr será instalado no seu repositório do GitHub e será feito o deploy do seu projeto no Bohr, assim que terminado, seu projeto já estará no ar pronto para ser acessado, agora você pode editar seu código e aproveitar do CI/CD do Bohr junto com as GitHub Actions para fazer deploys automáticos das suas alterações.
+![página do projeto](https://github.com/bohr-io/docs/assets/69644385/2865d293-ae4c-48d9-acbe-4e657c09877a)
+
+### Utilizando o Terminal
+
+Também é possível utilizar o terminal para criar projetos e publica-los no Bohr, você pode utilizar o terminal localmente ou o terminal disponível dentro do Bohr.io.
+![Terminal do Bohr](https://github.com/bohr-io/docs/assets/69644385/74b1aff7-40bd-4c40-92f1-619d0c661d24)
+
+Neste exemplo, vamos criar um projeto next e chama-lo de "my-next-app", então clique no botão "npx create-next-app" e defina suas preferências. Em seguida, o projeto será inicializado automaticamente.
+![preferências next](https://github.com/bohr-io/docs/assets/69644385/03ddf754-8102-4289-9b14-cd9645e74ef4)
+
+Agora, navegue até a pasta do seu novo projeto Next clicando no botão "cd /app/my-next-app"
+![navegar até a pasta do projeto](https://github.com/bohr-io/docs/assets/69644385/dbfae19e-b8c7-441d-84f5-94c3fc0b0ec1)
+
+Com seu novo projeto já criado, agora é só publica-lo no Bohr clicando no botão "npx bohr deploy". Agora o bohr irá fazer a instalação e build do projeto e o deploy dentro do Bohr, assim que terminado seu projeto já estará no ar pronto para ser acessado pelo link informado no terminal.
+![publicando no Bohr](https://github.com/bohr-io/docs/assets/69644385/28e43577-f4e1-46b9-93a2-2ccd152c9f67)
+
+Agora, você também já pode criar um repositório no GitHub para seu novo projeto, clicando no botão "gh repo create" e definindo suas preferências de repositório.
+
+Então, você pode agora navegar para a página do seu novo projeto e aproveitar do CI/CD do Bohr junto com as GitHub Actions para fazer deploys automáticos das suas alterações.
+![página do projeto](https://github.com/bohr-io/docs/assets/69644385/4d4d21a9-9c50-44e0-a73b-4778f5f6c1a7)
 
 ## Funcionalidades
 
@@ -57,13 +102,12 @@ _Dogfooding_ significa o uso dos próprios produtos. Nossa plataforma se enquadr
 No menu lateral ou nos links abaixo você pode acessar a documentação de áreas específicas da bohr.io:
 
 - [Variáveis de Ambiente](https://docs.bohr.io/docs/variaveis-de-ambiente)
-- [Templates](https://docs.bohr.io/docs/templates)
 - [Importação de repositórios do GitHub](https://docs.bohr.io/docs/importacao)
 - [Configurações](https://docs.bohr.io/docs/project-settings)
 - [Preview Deploys](https://docs.bohr.io/docs/preview-deploys)
-- [Template: Portfólio](https://docs.bohr.io/docs/portfolio-template)
-- [Template: Gatsby](https://docs.bohr.io/docs/gatsby-template)
-- [Template: Dashboard](https://docs.bohr.io/docs/dashboard-template)
+- [Template: Portfólio](https://docs.bohr.io/docs/Templates/portfolio-template)
+- [Template: Gatsby](https://docs.bohr.io/docs/Templates/gatsby-template)
+- [Template: Dashboard](https://docs.bohr.io/docs/Templates/dashboard-template)
 - [Domínios](https://docs.bohr.io/docs/domains)
 - [Logs](https://docs.bohr.io/docs/logs)
 - [Autenticação](https://docs.bohr.io/docs/autenticacao)

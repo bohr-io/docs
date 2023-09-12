@@ -31,7 +31,7 @@ Como diretriz para nossa comunidade, esperamos que a maioria dos usuários se en
 | Execução de funções serverless            | Até 100 GB-Hrs           | Até 1000 GB-Hrs          |
 | Invocações de edge middleware             | Até 1,000,000 Invocações | Até 1,000,000 Invocações |
 | Execução de build                         | Até 100 Hrs              | Até 400 Hrs              |
-| Imagens de origem de otimização de imagem | Até 1000 Images          | Até 5000 Images          |
+| Otimização de imagem                      | Até 1000 Images          | Até 5000 Images          |
 
 ### Recomendações adicionais
 
@@ -46,7 +46,7 @@ Para os participantes do nosso plano Pro, introduzimos uma estrutura de pagament
 | Largura de banda                          | $40 por incremento de 100 GB      |
 | Execução de funções serverless            | $40 por incremento de 100 GB-Hrs  |
 | Invocações de edge middleware             | $0.65 por incremento de 1,000,000 |
-| Imagens de origem de otimização de imagem | $5 por incremento de 1000         | 
+| Otimização de imagem                      | $5 por incremento de 1000         | 
 
 ## Uso para fins lucrativos
 

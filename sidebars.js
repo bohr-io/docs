@@ -121,6 +121,18 @@ const sidebars = {
       type: 'doc',
       id: 'pnpm-support',
     },      
+    {
+      type: 'doc',
+      id: 'fair-use-policy',
+    },      
+    {
+      type: 'doc',
+      id: 'privacy-policy',
+    },      
+    {
+      type: 'doc',
+      id: 'terms-of-use',
+    },      
    
   ],
 };

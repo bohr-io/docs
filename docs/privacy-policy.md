@@ -1,0 +1,239 @@
+---
+sidebar_position: 28
+---
+
+# Política de Privacidade
+
+bohr.io, juntamente com suas afiliadas ("bohr.io," "nós," "nosso," e/ou "nós"), valoriza muito a privacidade das pessoas que interagem com nosso site e serviços associados (coletivamente referidos como "nossos Serviços").
+Esta política de privacidade (referida como "Política de Privacidade") detalha nossas práticas em relação à coleta, utilização e compartilhamento de informações relacionadas a você ou seu dispositivo enquanto você utiliza os Serviços.
+
+<!-- Ao utilizar nossos Serviços, você expressa seu consentimento para a coleta, uso, divulgação e procedimentos detalhados nesta Política de Privacidade. Se você for um cliente empresarial localizado na Área Econômica Européia ("AEE"), Suíça ou Reino Unido, você também reconhece e aceita os termos do Contrato de Processamento de Dados ("CPD") acessível em https://bohr.io/site/cpd. Se você representa uma Agência Educacional Local nos Estados Unidos, você também reconhece a aplicabilidade do nosso Adendo de Proteção de Dados de Estudantes dos EUA, que está incorporado neste documento por referência. Além do escopo da Política de Privacidade, esteja ciente de que seu uso de nossos Serviços também está sujeito aos nossos Termos de Serviço. -->
+
+## Coleta de Informações
+
+Coletamos uma variedade de informações de você ou seus dispositivos por meio de várias fontes, como explicado abaixo.
+Se você optar por não fornecer as informações solicitadas, poderá não ter acesso a parte ou a todos os nossos Serviços, seja devido à necessidade das informações para fornecer os Serviços ou porque requisitos legais exigem sua coleta.
+
+### A. Dados Fornecidos por Você
+**Detalhes de registro e perfil.** Ao criar uma conta, solicitamos seu endereço de e-mail e podemos solicitar seu número de telefone. Se você optar por registrar-se com uma conta de mídia social, também obteremos detalhes dessas plataformas, como seu nome, endereço de e-mail e imagem de perfil, de acordo com as preferências de privacidade que você definiu nessas plataformas.
+
+**Detalhes de pagamento.** Quando você adiciona um cartão de crédito ou método de pagamento à sua conta, um provedor de serviços de pagamento de terceiros responsável pelo processamento dos pagamentos em nosso nome receberá e tratará os detalhes do seu cartão de pagamento.
+
+**Comunicações.** Quando você se comunica conosco, podemos receber informações adicionais. Por exemplo, ao interagir com nossa Equipe de Suporte ao Cliente, coletaremos seu nome, endereço de e-mail, número de telefone, o conteúdo de mensagens ou anexos que você nos enviar e outros dados que você optar por compartilhar. A inscrição em nosso boletim informativo leva à coleta de informações específicas, como seu endereço de e-mail. Podemos usar tecnologias como web beacons em nossos e-mails para rastrear taxas de abertura, com o objetivo de melhorar a experiência do cliente e aprimorar nossos serviços.
+
+**Informações relacionadas à carreira.** Se você se candidatar a uma vaga de emprego, poderá enviar seus dados de contato e currículo online. Coletaremos os dados fornecidos em seu currículo, como educação e histórico de empregos. Para candidatos a empregos na Califórnia, termos adicionais específicos se aplicam.
+
+### B. Coleta Automática de Dados Durante o Uso dos Serviços
+Utilizamos ferramentas eletrônicas como cookies, tags de pixel e tecnologias semelhantes (coletivamente referidas como "cookies" nesta Política de Privacidade) para gerar automaticamente dados sobre sua interação com os Serviços, conforme detalhado nesta seção.
+
+**Esclarecimento sobre cookies:** Os cookies incluem pequenos arquivos de caracteres e números armazenados em seu navegador ou disco rígido do computador, ou pequenos elementos gráficos inseridos em páginas da web ou e-mails. Eles podem ser temporários para uma única sessão de navegação ou mais duradouros. Os cookies nos ajudam a coletar dados sobre suas ações de navegação, diferenciá-lo de outros usuários, oferecer funcionalidades e analisar o uso dos Serviços. Nossos parceiros de terceiros, incluindo colaboradores de análise e publicidade, podem usar essas tecnologias para coletar dados sobre suas atividades online em serviços e ao longo do tempo. Os tipos de cookies utilizados por nós e terceiros incluem:
+
+- **Cookies essenciais:** Alguns cookies são essenciais para facilitar o acesso aos Serviços. Os serviços não podem ser fornecidos sem esta categoria de cookie.
+
+- **Cookies funcionais:** Esses cookies reconhecem você quando você retorna aos Serviços, permitindo-nos personalizar o conteúdo para você e lembrar suas preferências, como idioma ou escolha de região.
+
+- **Cookies analíticos ou de desempenho:** Usamos cookies para fins de análise para operar, melhorar e manter nossos Serviços. Podemos usar nossos próprios cookies de análise ou provedores de análise de terceiros, como o Google Analytics, para coletar e processar dados analíticos específicos em nosso nome. Esses provedores também podem coletar informações sobre seu uso de outros sites, aplicativos e recursos online. É possível optar por não participar do Google Analytics por meio do plugin do navegador do Google. Mais detalhes sobre seus direitos, escolhas e como bloquear cookies específicos podem ser encontrados na seção "Seus Direitos e Escolhas" abaixo.
+
+## Dados Coletados Automaticamente Durante o Uso dos Serviços
+
+**Informações do dispositivo.** Detalhes sobre seu dispositivo e software usado para acessar nossos Serviços incluem endereço IP, provedor de serviços de Internet, tipo de navegador da web, versão do sistema operacional, operadora e fabricante de telefones, instalações de aplicativos, tipo de dispositivo e identificadores de dispositivos e identificadores de publicidade móvel.
+
+**Informações de localização.** Podemos inferir sua localização geral com base em outros dados coletados (por exemplo, seu endereço IP indicando sua região geral), mas não coletamos dados de geolocalização precisos.
+
+**Dados de uso.** Para compreender e analisar seu uso de nossos Serviços para fins de melhoria, automaticamente recebemos dados sobre suas interações, como conteúdo visualizado ou interagido, buscas realizadas, comentários, conteúdo postado, comandos inseridos e registros de visitas.
+
+### C. Dados Recebidos de Terceiros
+
+**Informações de serviços de terceiros.** Se você vincular nossos Serviços a uma conta de terceiros, podemos adquirir dados sobre você, incluindo detalhes do perfil e fotos, bem como informações sobre o uso da conta de terceiros, de acordo com as configurações da conta. Para controlar as informações que recebemos, consulte as configurações de privacidade de suas contas de terceiros.
+
+**Outros dados de terceiros.** Podemos receber informações adicionais, como dados demográficos, de terceiros, como parceiros de dados ou marketing, e mesclá-los com nossas informações existentes sobre você.
+
+## Uso das informações coletadas
+
+Utilizamos as informações coletadas das seguintes maneiras:
+
+- Para fornecer, manter, melhorar e aprimorar nossos Serviços.
+- Para interagir com você, fornecer atualizações e informações adicionais relacionadas aos nossos Serviços, fornecer informações solicitadas, responder a comentários e perguntas e oferecer suporte ao cliente.
+- Para facilitar a conexão com serviços ou aplicativos de terceiros, incluindo redes sociais.
+- Para fins de marketing, incluindo o desenvolvimento e envio de materiais promocionais e publicitários que possam ser benéficos, relevantes, valiosos ou de outra forma interessantes para você.
+- Para personalizar sua experiência em nossos Serviços, fornecendo conteúdo personalizado.
+- Para facilitar transações e pagamentos.
+- Para identificar e prevenir atividades fraudulentas e lidar com questões de confiança e segurança que possam surgir.
+- Para fins de conformidade, que podem incluir fazer cumprir nossos Termos de Serviço ou outros direitos legais, ou cumprir leis, regulamentos, processos judiciais ou solicitações de agências governamentais.
+- Para outros fins específicos que notificaremos no momento da coleta das informações.
+
+**Dados desidentificados:** É importante observar que podemos transformar as informações coletadas de você em um estado em que não seja razoavelmente possível rastreá-las de volta a você ou ao seu dispositivo. Após esse processo de desidentificação, temos a liberdade de utilizar e compartilhar os dados para qualquer finalidade, a nosso critério, tornando esta Política de Privacidade inaplicável a essas informações.
+
+## Suas responsabilidades em relação à privacidade
+  
+bohr.io oferece a você a capacidade de compartilhar conteúdo que pode potencialmente coletar informações pessoalmente identificáveis de seus usuários. Se você optar por compartilhar tal conteúdo, é sua responsabilidade entender suas obrigações legais e cumprir todas as leis relevantes, incluindo:
+
+- Fornecer notificações adequadas aos seus usuários sobre seus direitos de privacidade, com referência a esta Política de Privacidade.
+- Obter o consentimento necessário de seus usuários para o processamento, armazenamento, uso e transferência de qualquer informação pessoalmente identificável que você coletar.
+- Se aplicável, fornecer notificações necessárias e obter o consentimento verificável dos pais, conforme exigido pela Lei de Proteção de Dados Online de Crianças (COPPA) ou legislações semelhantes.
+- Cumprir suas obrigações legais de permitir que seus usuários corrijam suas informações pessoalmente identificáveis ou solicitem sua exclusão.
+
+## Fundamentos legais para o processamento de informações
+
+Várias regulamentações globais de privacidade (como as dentro da Área Econômica Europeia, Reino Unido e Brasil) exigem o estabelecimento de uma "base legal" para o processamento de suas informações. As bases legais nas quais confiamos para processar suas informações incluem:
+
+- **Consentimento:** Obtivemos seu consentimento para a utilização de suas informações. Isso se aplica, por exemplo, quando é legalmente necessário enviar comunicações de marketing.
+- **Obrigação Contratual:** Suas informações são essenciais para fornecer os Serviços, como facilitar o registro e responder às suas consultas.
+- **Cumprimento de Obrigações Legais:** Somos obrigados por lei a utilizar suas informações, como em casos de obrigações fiscais e contábeis.
+- **Interesses Legítimos:** Temos um interesse comercial legítimo em utilizar suas informações, desde que isso não infrinja seus direitos e preocupações individuais. Isso inclui o uso de suas informações para fins de melhoria do produto, análise interna, aprimoramento da precisão de nossas tecnologias de aprendizado de máquina (como geração de código) e aprimoramento da segurança e desempenho de nossos serviços.
+
+### Compartilhamento de informações coletadas
+
+Colaboramos com as seguintes categorias de terceiros para compartilhar informações:
+
+- **Afiliados:** Podemos compartilhar quaisquer informações recebidas com nossas entidades corporativas afiliadas sob uma estrutura de propriedade ou controle compartilhado, para qualquer um dos fins delineados nesta Política de Privacidade.
+- **Prestadores de Serviços:** As informações podem ser compartilhadas com fornecedores envolvidos na facilitação de nossos Serviços, que processam seus dados em nosso nome. Essas entidades incluem colaboradores de análises, faturamento, suporte jurídico, marketing, segurança, aprendizado de máquina e prevenção de fraudes.
+- **Outros Usuários e Indivíduos:** Nossos Serviços promovem um ambiente social onde você pode descobrir, colaborar e compartilhar conteúdo. Partes de seu perfil, como nome, nome de usuário, imagem de perfil e código, são constantemente visíveis e pesquisáveis por outros usuários, enquanto conteúdo como seu código publicado e contribuições em fóruns é apresentado nos Serviços e acessível por outros usuários por padrão. A seção "Suas Preferências" desta Política de Privacidade descreve os controles que você pode utilizar para restringir o compartilhamento de código. Não assumimos responsabilidade pelo uso de informações disponíveis por outros usuários, portanto, é importante considerar suas escolhas de conteúdo e estratégia de auto-identificação nos Serviços. É importante observar que perfis de estudantes criados por educadores via Teams for Education, bem como o código dos estudantes, permanecem inacessíveis para visualização e pesquisa pública, e os estudantes não podem publicar conteúdo em fóruns de acesso público.
+- **Integrações de Aplicativos de Terceiros:** Se você integrar um aplicativo de terceiros aos nossos Serviços, informações como código podem ser compartilhadas com esse terceiro.
+- **Divulgações Legais e Semelhantes:** Podemos acessar, manter e divulgar suas informações se houver uma crença legítima de que tais ações são necessárias ou apropriadas para: (a) atender a pedidos das autoridades policiais e processos legais, como ordens judiciais ou intimações; (b) cumprir suas solicitações; ou (c) proteger seus direitos, nossos direitos ou os direitos, propriedade ou segurança de outras pessoas. Para ser claro, a divulgação de suas informações pode ocorrer se você compartilhar qualquer conteúdo inadequado nos Serviços.
+- **Fusões, Vendas ou Transferências de Ativos:** Suas informações podem ser divulgadas e transferidas a prestadores de serviços, consultores, possíveis parceiros transacionais ou outras partes terceiras como parte da avaliação, negociação ou realização de uma transação corporativa, na qual sejamos adquiridos ou fundidos com outra entidade, ou quando vendemos, dissolvemos ou transferimos a totalidade ou uma parte de nossos negócios ou ativos.
+- **Consentimento:** Também podemos divulgar informações de ou sobre você com sua autorização explícita.
+
+### Seus direitos e preferências
+
+**Personalização das opções de compartilhamento:** Se você deseja restringir a visibilidade do seu código, tem a opção de atualizá-lo e designá-lo como privado. Se você importar código do GitHub e seu repositório for público, ele manterá seu status público por padrão no bohr.io. Por outro lado, se você importar código de um repositório privado do GitHub, a atualização garantirá que o código permaneça privado no bohr.io.
+
+**Optando por não receber comunicações de Marketing:** Você tem a capacidade de cancelar a inscrição de nossos emails promocionais por meio do link fornecido nos emails. Mesmo que você opte por não receber mensagens promocionais, notificações administrativas continuarão a ser enviadas a você.
+
+**Gerenciamento de cookies:** Ajustar as configurações do seu navegador permite bloquear, desativar ou receber notificações sobre a recepção de cookies, excluir cookies ou navegar em nossos Serviços usando a função de uso anônimo do seu navegador. No entanto, bloquear todos os cookies, incluindo os essenciais, por meio das configurações do seu navegador pode dificultar o acesso a partes específicas de nossos Serviços ou fazer com que algumas funcionalidades não funcionem conforme o esperado.
+
+Seus direitos de privacidade na Europa: Se você estiver localizado na Área Econômica Europeia ou no Reino Unido, os seguintes direitos estão disponíveis para você:
+
+- **Acesso às suas Informações:** Você pode solicitar acesso às suas informações mantidas, corrigir imprecisões, restringir ou objetar ao processamento, anonimizar ou apagar dados, conforme apropriado, e exercer direitos de portabilidade de dados.
+- **Retirada de Consentimento:** Você tem o direito de retirar qualquer consentimento previamente concedido para o processamento de suas informações, sem custos. Isso afetará o processamento futuro e não afetará a legalidade do processamento anterior.
+- **Apresentação de Reclamações:** Você tem a opção de apresentar reclamações às autoridades de supervisão, incluindo aquelas em seu país de residência, trabalho ou onde ocorreu um incidente.
+
+Para exercer esses direitos, você pode entrar em contato conosco usando as informações de contato fornecidas no final desta Política de Privacidade. É importante observar que cada direito tem exceções e limitações específicas. Embora quaisquer alterações que você fizer sejam refletidas imediatamente nas bases de dados de usuários ativos ou em um prazo razoável, podemos reter informações para backup, arquivamento, prevenção de fraudes, análises, obrigações legais ou para fins legítimos.
+
+#### Envolvimento de terceiros
+
+Nossos Serviços podem incorporar links para outros websites, produtos ou serviços que não possuímos ou operamos. Não assumimos responsabilidade pelas práticas de privacidade desses terceiros. Observe que esta Política de Privacidade não se aplica às suas interações em tais plataformas de terceiros ou a qualquer informação que você divulgar a eles. Recomendamos que você revise as políticas de privacidade desses sites vinculados antes de compartilhar qualquer dado.
+
+#### Retenção de dados
+
+Tomamos medidas para excluir suas informações ou mantê-las em um estado desidentificado quando sua retenção em uma forma identificável não for mais necessária para os fins do processamento. Isso é feito a menos que a lei exija um período de retenção mais longo. Ao determinar a duração específica da retenção, levamos em consideração fatores como o tipo de serviço prestado, a natureza e a duração de nosso relacionamento e as obrigações legais de retenção. Quando você solicita a exclusão de sua conta, seus dados são excluídos em até 30 dias.
+
+#### Medidas de segurança
+
+Utilizamos uma série de salvaguardas técnicas, organizacionais e físicas projetadas para proteger as informações que mantemos. No entanto, dado que nossos Serviços são hospedados eletronicamente, não podemos garantir a segurança completa da transmissão de dados pela Internet, dispositivos sem fio ou pelo ar. Continuaremos aprimorando as medidas de segurança à medida que novas tecnologias e procedimentos surgirem.
+
+<!-- #### Privacidade de crianças e estudantes 
+
+Nossos Serviços são destinados a um público geral e não são direcionados a crianças com menos de 13 anos. Ao concordar com nossa Política de Privacidade e Termos de Serviço, você afirma que está qualificado para usar nossos Serviços de acordo com os limites de idade prescritos pelo seu país. No caso de tomarmos conhecimento de um usuário com menos de 13 anos nos Estados Unidos ou abaixo da idade mínima exigida em outra jurisdição, tomaremos medidas razoáveis para obter o consentimento dos pais ou remover prontamente as informações pessoais do usuário de nossos registros. Por favor, entre em contato conosco em privacy@bohr.io se você acredita que um usuário falsificou sua idade em violação a esta Política de Privacidade. -->
+
+#### Conformidade com a COPPA 
+
+No âmbito de nossa oferta gratuita Teams for Education, educadores verificados podem criar contas limitadas no bohr.io para estudantes com menos de 13 anos, gerando um link de convite privado. Em tais casos, apenas um nome de usuário (excluindo nomes reais) e identificadores persistentes, como endereço IP e dados de cookies, são coletados do titular da conta. 
+
+#### Conformidade com a FERPA 
+
+A FERPA protege "informações pessoalmente identificáveis" contidas nos registros educacionais de estudantes contra divulgação não autorizada. Em conformidade com a FERPA, utilizamos registros educacionais, conforme definido pela FERPA, exclusivamente para fornecer serviços acordados às instituições educacionais. Compartilhamos informações protegidas pela FERPA apenas conforme orientado ou permitido pelas respectivas entidades educacionais ou conforme a FERPA. Quando pais ou estudantes elegíveis solicitam acesso aos registros educacionais armazenados em nossos servidores, auxiliamos na facilitação desse acesso. Mais informações estão disponíveis em nosso Adendo de Proteção de Dados do Estudante dos EUA e Aviso de Privacidade do Estudante.
+
+### Aviso de coleta
+
+A tabela abaixo descreve as diversas categorias de "informações pessoais" (conforme definido pelas leis estaduais relevantes mencionadas abaixo) que coletamos de você ou sobre você, juntamente com os objetivos previstos para a utilização de cada categoria e as terceiras partes com as quais compartilhamos cada categoria por motivos relacionados aos negócios. Consulte o gráfico fornecido para obter essas informações e consulte as respectivas seções acima nesta Política de Privacidade para obter mais detalhes sobre cada categoria.
+
+| **Categoria de informações pessoais**     | **Propósito de uso**                     | **Categorias de terceiros**            |
+| :-----------------------------------:     | :-----------------------:                | :---------------------------------:    |
+| Registro e informações de perfil          | - Prestação dos Serviços                 | - Afiliados                            |
+|                                           | - Comunicação com você                   | - Provedores de serviços               |
+|                                           | - Facilitando conexões de terceiros      | - Integrações de apps de terceiros     |
+|                                           | - Marketing e anúncios                   | - Entidades para conformidade legal    | 
+|                                           | - Personalizção                          | - Personalizção                        |
+|                                           | - Finalidades legais e de conformidade   |                                        |
+|                                           | - Com consentimento                      |                                        |
+| Informações de pagamento                  | - Facilitando transações                 | - Provedores de serviços               |
+|                                           | - Finalidades legais e de conformidade   | - Entidades para conformidade legal    |
+| Comunicações                              | - Comunicando com você                   | - Afiliados                            |
+|                                           | - Finalidades legais e de conformidade   | - Provedores de serviços               |
+|                                           | - Com consentimento                      | - Entidades para transações comerciais |
+| Informações sobre carreiras               | - Facilitação de candidaturas a empregos | - Afiliados                            |
+|                                           | - Provedores de serviços                 | - Entidades para conformidade legal    |
+|                                           | - Entidades para conformidade legal      |                                        |
+| Informação de dispositivo                 | - Prestação dos Serviços                 | - Afiliados                            |
+|                                           | - Marketing e anúncios                   | - Provedores de serviços               |
+|                                           | - Personalização                         | - Entidades para conformidade legal    |
+|                                           | - Finalidades legais e de conformidade   | - Entidades para transações comerciais |
+|                                           | - Com consentimento                      |                                        |
+| Informações de localização                | - Prestação dos Serviços                 | - Afiliados                            |
+|                                           | - Marketing e anúncios                   | - Provedores de serviços               |
+|                                           | - Personalização                         | - Entidades para conformidade legal    |
+|                                           | - Finalidades legais e de conformidade   | - Entidades para transações comerciais |
+|                                           | - Entidades para transações comerciais   |                                        |
+| Informações de uso                        | - Prestação dos Serviços                 | - Afiliados                            |
+|                                           | - Marketing e anúncios                   | - Provedores de serviços               |
+|                                           | - Personalização                         | - Entidades para conformidade legal    |
+|                                           | - Finalidades legais e de conformidade   | - Entidades para transações comerciais |
+|                                           | - Com consentimento                      |                                        |
+| Conteúdo gerado pelo usuário (ex: código) | - Prestação de serviços                  | - Afiliados                            |
+|                                           | - Facilitar conexões com terceiros       | - Provedores de serviços               |
+|                                           | - Personalização                         | - Outros usuários e indivíduos         |
+|                                           | - Finalidades legais e de conformidade   | - Integrações de apps de terceiros     |
+|                                           | - Com consentimento                      | - Entidades para conformidade legal    |
+| Informações de terceiros                  | - Prestação de serviços                  | - Afiliados                            |
+|                                           | - Marketing e anúncios                   | - Provedores de serviços               |
+|                                           | - Personalização                         | - Entidades para conformidade legal    |
+|                                           | - Finalidades legais e de conformidade   | - Entidades para transações comerciais |
+|                                           | - Com consentimento                      |                                        |
+
+### Idade legal para consentimento 
+
+Não oferecemos conscientemente os Serviços a indivíduos abaixo da idade legal para consentimento, nem coletaremos conscientemente informações pessoais de tais indivíduos. 
+
+### Seus direitos de informação 
+Você mantém o direito de acessar, modificar e excluir suas informações a seu critério por meio da interface da web integrada nos Serviços. 
+
+### Residentes da Califórnia 
+
+Em conformidade com a Lei de Privacidade do Consumidor da Califórnia (CCPA), não vendemos, alugamos ou distribuímos informações pessoais a terceiros, conforme especificado na Lei de Privacidade do Consumidor da Califórnia de 2018 (Código Civil da Califórnia Sec. 1798.100 e seguintes). Além disso, não vendemos, alugamos ou distribuímos informações pessoais a terceiros para fins de marketing direto, conforme delineado no Código Civil da Califórnia Sec. 1798.83. 
+
+<!-- ### Residentes da UE 
+
+A bohr.io aplicará os Princípios do Privacy Shield UE-EUA a todas as informações pessoais recebidas de residentes da UE por meio do Privacy Shield. A bohr.io está sob a jurisdição da Comissão Federal de Comércio (FTC) e pode ser obrigada a divulgar informações pessoais em resposta a solicitações legítimas de autoridades públicas, incluindo aquelas relacionadas à segurança nacional ou aplicação da lei.
+
+De acordo com os Princípios do Privacy Shield, a bohr.io está empenhada em lidar com reclamações relativas à coleta ou uso de suas informações pessoais. Você pode entrar em contato conosco em privacy@bohr.io.
+
+Residentes da UE geralmente têm a opção de (optar por não) divulgar seus dados pessoais a terceiros ou usá-los para fins materialmente diferentes do(s) objetivo(s) inicial(ais) para os quais foram coletados ou autorizados por você.
+
+Se desejar optar por não participar, siga as instruções nas seções "Consentimento e Coleta e Uso de Informações" e "Seus Direitos de Informação" ou entre em contato conosco em privacy@bohr.io. Observe que essa opção/não participação não se aplica nos casos em que seus dados pessoais são compartilhados com um terceiro atuando como nosso agente (por exemplo, nossos prestadores de serviços que auxiliam em nossas operações). Não forneceremos seus dados pessoais a terceiros sem um acordo contratual em vigor.
+
+A bohr.io também se compromete a cooperar com as Autoridades de Proteção de Dados da UE (DPAs) para resolver reclamações não resolvidas relacionadas ao Privacy Shield de indivíduos da UE.
+
+A bohr.io é responsável por transferências subsequentes a terceiros, a menos que possamos demonstrar que não estávamos envolvidos nos eventos que resultaram em danos. Além disso, sob condições específicas limitadas, os indivíduos podem ter a opção de invocar a arbitragem vinculativa para resolver disputas, conforme detalhado no Anexo 1 do Privacy Shield em https://www.privacyshield.gov/article?id=ANNEX-I-introduction.  -->
+
+### Divulgação 
+
+Compartilharemos exclusivamente suas informações com terceiros de acordo com suas diretrizes ou conforme necessário para fornecer a você um serviço específico, tudo de acordo com as leis de privacidade aplicáveis. Como prática geral, não vendemos, alugamos, compartilhamos ou divulgamos suas informações pessoais sem obter seu consentimento ou conforme autorizado nesta Política de Privacidade. 
+
+### Dados agregados 
+
+Podemos utilizar suas informações pessoais para gerar Dados Agregados para fins internos e compartilhamento seletivo. "Dados Agregados" refere-se a registros que foram desprovidos de informações potencialmente identificáveis relacionadas a clientes, páginas de destino ou usuários finais e que foram manipulados ou mesclados para oferecer insights generalizados e anônimos. Sua identidade e detalhes pessoais permanecerão anônimos em Dados Agregados. 
+
+### Links 
+
+O site pode conter links para outros sites, e não temos responsabilidade pelas práticas de privacidade ou conteúdo de tais sites externos. Recomendamos que você revise a política de privacidade dos sites vinculados, pois suas políticas de privacidade e práticas podem variar das nossas. 
+
+### Cookies e arquivos de log
+
+Cookies e arquivos de log são utilizados para rastrear informações do usuário. Cookies são pequenos conjuntos de dados transferidos para o seu navegador da web por um servidor da web e armazenados no disco rígido do seu computador. Esses cookies ajudam a rastrear a variante da página visualizada por um visitante, cliques nas variantes da página, padrões de tráfego e a popularidade das opções de serviço. Esses dados ajudam a fornecer conteúdo e serviços pertinentes e garantem que os visitantes retornantes encontrem o site esperado ao revisitar a mesma URL da web. Além disso, os cookies revelam o número de cliques que seu site recebe. 
+
+### Mudança de propriedade ou transição empresarial
+
+Em casos de mudança de propriedade ou outras transições comerciais, como fusões, aquisições ou vendas de ativos, suas informações podem ser transferidas de acordo com as leis de privacidade aplicáveis. 
+
+### Segurança 
+
+Embora nos esforcemos para evitar o acesso não autorizado às suas informações pessoais, a segurança completa da transmissão de dados pela Internet, dispositivos sem fio ou pelo ar não pode ser garantida como 100% segura. Continuaremos aprimorando as medidas de segurança à medida que novas tecnologias e procedimentos surgirem.
+
+Recomendamos fortemente que você não compartilhe sua senha com ninguém. Se você esquecer sua senha, solicitaremos seu ID e enviaremos um e-mail contendo um link para redefini-la.
+
+Lembre-se de que você controla as informações pessoais fornecidas ao usar os Serviços. Em última análise, você é responsável por manter a confidencialidade de sua identificação, senhas e/ou qualquer informação pessoal em sua posse para uso do Serviço. Exercite cautela e responsabilidade ao divulgar informações pessoais. Isentamos qualquer responsabilidade pelo uso de informações que você forneça a terceiros, e deve-se ter cuidado ao selecionar as informações pessoais compartilhadas com outras pessoas por meio dos Serviços. Da mesma forma, não somos responsáveis pelo conteúdo de informações pessoais ou outras informações recebidas de outros usuários por meio dos Serviços, e você nos isenta de qualquer responsabilidade relacionada ao conteúdo de tais informações pessoais ou informações de terceiros. Não podemos garantir nem assumir a responsabilidade por verificar a precisão das informações pessoais ou outras informações fornecidas por terceiros.
+
+<!-- ### Entre em contato conosco 
+
+Para dúvidas ou sugestões relacionadas à nossa Política de Privacidade, entre em contato conosco pelo e-mail privacy@bohr.io. -->

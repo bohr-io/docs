@@ -1,0 +1,82 @@
+---
+sidebar_position: 30
+---
+
+# Política de Uso Justo
+
+Todos os planos de assinatura incorporam o uso sujeito a esta Política de Uso Justo. Apresentamos abaixo um guia para ajudar a determinar quais projetos se enquadram em nossa definição de "Uso Justo" e quais não se enquadram. 
+
+## Exemplos de Uso Aceitável
+
+- Sites estáticos
+- Aplicativos híbridos
+- Aplicativos de frontend
+- Aplicativos de página única (Single-page applications)
+- Funções que consultam bancos de dados ou APIs
+- Blogs, comércio eletrônico e sites de marketing
+
+## Exemplos de Uso Inaceitável
+
+- Proxies e Redes Privadas Virtuais (VPNs)
+- Hospedagem de mídia para hot-linking
+- Raspadores da web (Web Scrapers)
+- Mineração de criptomoedas
+- Testes de carga
+
+## Diretrizes para Uso
+
+Como diretriz para nossa comunidade, esperamos que a maioria dos usuários se encaixe nas seguintes faixas de uso para cada plano. Se o seu uso se desviar significativamente, entraremos em contato com você para abordar o uso excepcional. Nosso objetivo é ser o mais flexível possível, ao mesmo tempo em que evitamos uma carga indevida em nossa infraestrutura. Sempre que possível, entraremos em contato com você antes de tomar qualquer medida para lidar com o uso irrazoável e colaborar com você para resolvê-lo.
+
+### Diretrizes típicas de uso mensal
+
+|                                           | **Hobby**                | **Pro**                  |
+| :-------:                                 | :-------:                | :-------:                |       
+| Largura de banda                          | Até 100 GB               | Até 1 TB                 |
+| Execução de funções serverless            | Até 100 GB-Hrs           | Até 1000 GB-Hrs          |
+| Invocações de edge middleware             | Até 1,000,000 Invocações | Até 1,000,000 Invocações |
+| Execução de build                         | Até 100 Hrs              | Até 400 Hrs              |
+| Otimização de imagem                      | Até 1000 Images          | Até 5000 Images          |
+
+### Recomendações adicionais
+
+Limite de uso de CPU para Edge Middleware - Recomenda-se que o Middleware de Borda utilize um tempo médio de CPU de no máximo 50ms. Essa restrição diz respeito ao tempo líquido efetivo da CPU, excluindo o tempo de execução. Por exemplo, períodos gastos aguardando respostas da rede durante a comunicação não contribuem para as restrições de tempo da CPU. 
+
+### Disponibilidade de recursos extras
+
+Para os participantes do nosso plano Pro, introduzimos uma estrutura de pagamento conforme o uso para o uso suplementar, proporcionando maior flexibilidade e gerenciamento do seu consumo. As referências padrão de uso mensal mencionadas anteriormente permanecem relevantes, enquanto qualquer uso adicional estará sujeito a cobranças automáticas de acordo com as seguintes taxas:
+
+| **Hobby**                                 | **Pro**                           |
+| :------:                                  | :------:                          |
+| Largura de banda                          | $40 por incremento de 100 GB      |
+| Execução de funções serverless            | $40 por incremento de 100 GB-Hrs  |
+| Invocações de edge middleware             | $0.65 por incremento de 1,000,000 |
+| Otimização de imagem                      | $5 por incremento de 1000         | 
+
+## Uso para fins lucrativos
+
+Contas de hobby estão limitadas exclusivamente ao uso pessoal não comercial. Qualquer utilização da plataforma para fins comerciais requer um plano Pro ou Empresarial.
+
+O uso comercial é descrito como qualquer Implantação utilizada com a intenção de gerar ganhos financeiros para qualquer entidade ou indivíduo envolvido em qualquer aspecto da produção do projeto. Isso inclui funcionários remunerados ou consultores envolvidos no desenvolvimento de código. Exemplos disso incluem - embora não se limitem a - o seguinte:
+
+- Qualquer método de solicitação ou gerenciamento de pagamentos de visitantes do site.
+- Promoção de vendas de produtos ou serviços.
+- Recebimento de compensação pela criação, manutenção ou hospedagem do site.
+- Uso principal de links de afiliados no site.
+- Inclusão de anúncios, incluindo plataformas de publicidade online como o Google AdSense.
+- Solicitar doações não se qualifica como uso comercial.
+
+Se houver dúvidas sobre se o seu site se qualifica como uso comercial, entre em contato com a equipe de Suporte da bohr.io.
+
+## Limites gerais
+
+Por favor, revise nossa documentação de Limites para se familiarizar com as limitações aplicáveis a todas as contas. 
+
+## Mais detalhes
+
+Burlar ou abusar dos limites ou diretrizes de uso da bohr.io constitui uma violação de nossa Política de Uso Justo.
+
+Para obter informações adicionais sobre esta política e o uso aceitável de nossos serviços, consulte nossos Termos de Serviço ou seu Acordo de Serviço Empresarial.
+
+
+
+

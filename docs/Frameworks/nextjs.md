@@ -61,6 +61,13 @@ A segunda opção é habilitar o suporte experimental para SSR (Server-Side Rend
     DEPLOY_PATH=./
     ```
 
+3. É necessário também adicionar a seguinte configuração ao arquivo `next.config.js`:
+    ```
+    module.exports = {
+        output: 'standalone',
+    }
+    ```
+
 ## Conclusão
 
 Escolha a opção que melhor se adequa às necessidades do seu projeto. O Static Export é geralmente mais rápido e oferece menor latência, mas possui algumas limitações. O suporte experimental para SSR pode ser útil se você precisar de funcionalidades que dependem da renderização no servidor.

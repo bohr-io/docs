@@ -59,10 +59,10 @@ Utilizamos as informações coletadas das seguintes maneiras:
 - Para personalizar sua experiência em nossos Serviços, fornecendo conteúdo personalizado.
 - Para facilitar transações e pagamentos.
 - Para identificar e prevenir atividades fraudulentas e lidar com questões de confiança e segurança que possam surgir.
-- Para fins de conformidade, que podem incluir fazer cumprir nossos Termos de Serviço ou outros direitos legais, ou cumprir leis, regulamentos, processos judiciais ou solicitações de agências governamentais.
+- Para fins de conformidade (*compliance*), que podem incluir fazer cumprir nossos Termos de Serviço ou outros direitos legais, ou cumprir leis, regulamentos, processos judiciais ou solicitações de agências governamentais.
 - Para outros fins específicos que notificaremos no momento da coleta das informações.
 
-**Dados desidentificados:** É importante observar que podemos transformar as informações coletadas de você em um estado em que não seja razoavelmente possível rastreá-las de volta a você ou ao seu dispositivo. Após esse processo de desidentificação, temos a liberdade de utilizar e compartilhar os dados para qualquer finalidade, a nosso critério, tornando esta Política de Privacidade inaplicável a essas informações.
+**Dados desidentificados:** É importante observar que podemos transformar as informações coletadas em um estado em que não seja razoavelmente possível rastreá-las de volta a você ou ao seu dispositivo. Após esse processo de desidentificação, temos a liberdade de utilizar e compartilhar os dados para qualquer finalidade, a nosso critério, tornando esta Política de Privacidade inaplicável a essas informações.
 
 ## Suas responsabilidades em relação à privacidade
   
@@ -70,7 +70,7 @@ bohr.io oferece a você a capacidade de compartilhar conteúdo que pode potencia
 
 - Fornecer notificações adequadas aos seus usuários sobre seus direitos de privacidade, com referência a esta Política de Privacidade.
 - Obter o consentimento necessário de seus usuários para o processamento, armazenamento, uso e transferência de qualquer informação pessoalmente identificável que você coletar.
-- Se aplicável, fornecer notificações necessárias e obter o consentimento verificável dos pais, conforme exigido pela Lei de Proteção de Dados Online de Crianças (COPPA) ou legislações semelhantes.
+- Se aplicável, fornecer notificações necessárias e obter o consentimento verificável dos pais, conforme exigido pela Lei Geral de Proteção de Dados Pessoais (LGPD) ou legislações semelhantes.
 - Cumprir suas obrigações legais de permitir que seus usuários corrijam suas informações pessoalmente identificáveis ou solicitem sua exclusão.
 
 ## Fundamentos legais para o processamento de informações
@@ -96,13 +96,13 @@ Colaboramos com as seguintes categorias de terceiros para compartilhar informaç
 
 ### Seus direitos e preferências
 
-**Personalização das opções de compartilhamento:** Se você deseja restringir a visibilidade do seu código, tem a opção de atualizá-lo e designá-lo como privado. Se você importar código do GitHub e seu repositório for público, ele manterá seu status público por padrão no bohr.io. Por outro lado, se você importar código de um repositório privado do GitHub, a atualização garantirá que o código permaneça privado no bohr.io.
+**Personalização das opções de compartilhamento:** Se você deseja restringir a visibilidade do seu código, tem a opção de atualizá-lo e designá-lo como privado. Se você importar código do GitHub e seu repositório for público, ele manterá seu status público por padrão na bohr.io. Por outro lado, se você importar código de um repositório privado do GitHub, a atualização garantirá que o código permaneça privado na bohr.io.
 
-**Optando por não receber comunicações de Marketing:** Você tem a capacidade de cancelar a inscrição de nossos emails promocionais por meio do link fornecido nos emails. Mesmo que você opte por não receber mensagens promocionais, notificações administrativas continuarão a ser enviadas a você.
+**Opção por não receber comunicações de Marketing:** Você tem a capacidade de cancelar a inscrição de nossos emails promocionais por meio do link fornecido nos emails. Mesmo que você opte por não receber mensagens promocionais, notificações administrativas continuarão a ser enviadas a você.
 
-**Gerenciamento de cookies:** Ajustar as configurações do seu navegador permite bloquear, desativar ou receber notificações sobre a recepção de cookies, excluir cookies ou navegar em nossos Serviços usando a função de uso anônimo do seu navegador. No entanto, bloquear todos os cookies, incluindo os essenciais, por meio das configurações do seu navegador pode dificultar o acesso a partes específicas de nossos Serviços ou fazer com que algumas funcionalidades não funcionem conforme o esperado.
+**Gerenciamento de cookies:** Ajustar as configurações do seu navegador permite bloquear, desativar ou receber notificações sobre a recepção de cookies, excluir cookies ou navegar em nossos Serviços usando a função de uso anônimo do seu navegador. No entanto, bloquear todos os cookies, incluindo os essenciais, por meio das configurações do seu navegador pode dificultar o acesso a partes específicas de nossos Serviços ou fazer com que alguns recursos não funcionem conforme o esperado.
 
-Seus direitos de privacidade na Europa: Se você estiver localizado na Área Econômica Europeia ou no Reino Unido, os seguintes direitos estão disponíveis para você:
+**Seus direitos de privacidade na Europa:** Se você estiver localizado na Área Econômica Europeia ou no Reino Unido, os seguintes direitos estão disponíveis para você:
 
 - **Acesso às suas Informações:** Você pode solicitar acesso às suas informações mantidas, corrigir imprecisões, restringir ou objetar ao processamento, anonimizar ou apagar dados, conforme apropriado, e exercer direitos de portabilidade de dados.
 - **Retirada de Consentimento:** Você tem o direito de retirar qualquer consentimento previamente concedido para o processamento de suas informações, sem custos. Isso afetará o processamento futuro e não afetará a legalidade do processamento anterior.
@@ -216,11 +216,11 @@ Podemos utilizar suas informações pessoais para gerar Dados Agregados para fin
 
 ### Links 
 
-O site pode conter links para outros sites, e não temos responsabilidade pelas práticas de privacidade ou conteúdo de tais sites externos. Recomendamos que você revise a política de privacidade dos sites vinculados, pois suas políticas de privacidade e práticas podem variar das nossas. 
+O site da bohr.io pode conter links para outros sites, e não temos responsabilidade pelas práticas de privacidade ou conteúdo de tais sites externos. Recomendamos que você revise a política de privacidade dos sites vinculados, pois elas podem variar das nossas. 
 
 ### Cookies e arquivos de log
 
-Cookies e arquivos de log são utilizados para rastrear informações do usuário. Cookies são pequenos conjuntos de dados transferidos para o seu navegador da web por um servidor da web e armazenados no disco rígido do seu computador. Esses cookies ajudam a rastrear a variante da página visualizada por um visitante, cliques nas variantes da página, padrões de tráfego e a popularidade das opções de serviço. Esses dados ajudam a fornecer conteúdo e serviços pertinentes e garantem que os visitantes retornantes encontrem o site esperado ao revisitar a mesma URL da web. Além disso, os cookies revelam o número de cliques que seu site recebe. 
+Cookies e arquivos de log são utilizados para rastrear informações do usuário. Cookies são pequenos conjuntos de dados transferidos para o seu navegador da web por um servidor da web e armazenados no disco rígido do seu computador. Esses cookies ajudam a rastrear a variante da página visualizada por um visitante, cliques nas variantes da página, padrões de tráfego e a popularidade das opções de serviço. Esses dados ajudam a fornecer conteúdo e serviços pertinentes e garantem que os visitantes retornantes encontrem o site esperado ao revisitar a mesma URL da web. Além disso, os cookies revelam o número de cliques que o site recebe. 
 
 ### Mudança de propriedade ou transição empresarial
 

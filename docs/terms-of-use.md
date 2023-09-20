@@ -32,14 +32,14 @@ Ao utilizar os Serviços, você está estritamente proibido de se envolver ou pe
 - Interferir ou perturbar os Serviços ou impor uma carga excessiva na infraestrutura da bohr.io ou nas redes e serviços a ela conectados;
 - Usar o Serviço para lançar ataques ou interferir em outros sites, serviços ou indivíduos;
 - Realizar testes extensivos de carga sem obter consentimento por escrito da bohr.io, pois isso pode ser interpretado como um ataque de negação de serviço;
-- Implantar sistemas automatizados, incluindo, mas não se limitando a "robôs", "spiders" ou "leitores offline", para acessar o Serviço de maneira que exceda o volume razoável de solicitações que um ser humano poderia gerar usando um navegador web online convencional em um determinado período de tempo. Exceções podem ser concedidas a operadores de mecanismos de busca públicos para a criação de índices pesquisáveis, sujeitos à discrição da bohr.io. No entanto, a coleta de informações pessoalmente identificáveis ou a solicitação comercial por meio dos sistemas de comunicação do Serviço são estritamente proibidas. Os usuários não têm permissão para solicitar o conteúdo de outros usuários para fins comerciais. <!--É concedido consentimento específico para o uso comercial e não comercial de incorporações padrão em sites e aplicativos, conforme delineado neste link: https://docs.bohr.io/hosting/embedding-repls; --> 
+- Implantar sistemas automatizados, incluindo - mas não se limitando a - "robôs", "spiders" ou "leitores offline", para acessar o Serviço de maneira que exceda o volume razoável de solicitações que um ser humano poderia gerar usando um navegador web online convencional em um determinado período de tempo. Exceções podem ser concedidas a operadores de mecanismos de busca públicos para a criação de índices pesquisáveis, sujeitos à discrição da bohr.io. No entanto, a coleta de informações pessoalmente identificáveis ou a solicitação comercial por meio dos sistemas de comunicação do Serviço são estritamente proibidas. Os usuários não têm permissão para solicitar o conteúdo de outros usuários para fins comerciais. <!--É concedido consentimento específico para o uso comercial e não comercial de incorporações padrão em sites e aplicativos, conforme delineado neste link: https://docs.bohr.io/hosting/embedding-repls; --> 
 - Alugar, arrendar, emprestar, vender acesso ou tentar transferir quaisquer direitos ao site da bohr.io (incluindo seu software e documentação) para terceiros, por meio de enquadramento ou qualquer outro método;
 - Alterar, adaptar, traduzir ou engenharia reversa de qualquer parte do Serviço. Isso inclui práticas como "raspagem de tela", "raspagem de banco de dados" ou qualquer atividade destinada a extrair listas de usuários, partes de bancos de dados, visuais, métodos comerciais ou outras informações do Serviço, além do que é autorizado por escrito pela bohr.io ou para fins competitivos;
 - Remover quaisquer avisos de direitos autorais, marcas registradas ou direitos de propriedade presentes no Serviço;
 - Reformatar ou enquadrar qualquer seção das páginas de exibição administrativa do Serviço;
-Utilizar o Serviço para mineração de criptomoedas, como "mineração" de bitcoins ou outras criptomoedas, ou Cycles;
+- Utilizar o Serviço para mineração de criptomoedas, como "mineração" de bitcoins ou outras criptomoedas, ou Cycles;
 - Exibir conteúdo relacionado ao ódio ou violência ou promover materiais, produtos ou serviços que violem ou incentivem a conduta em contravenção das leis criminais, outras leis aplicáveis ou direitos de terceiros;
-- Alterar o logotipo da bohr.io, as marcas da bohr.io ou qualquer outro logotipo da bohr.io;
+- Alterar o logotipo da bohr.io ou as marcas da bohr.io;
 - Enviar mensagens não solicitadas ou usar o Serviço para transmitir mensagens não solicitadas (comumente referidas como spam);
 - Clonar repetidamente projetos para executar ou hospedar código idêntico, causando carga indevida no Serviço;
 - Criar um proxy por meio do Serviço com a intenção de contornar qualquer firewall ou medidas de controle de acesso;
@@ -48,8 +48,7 @@ Utilizar o Serviço para mineração de criptomoedas, como "mineração" de bitc
 ## Conteúdo restrito
 Você está proibido de fazer upload ou transmitir qualquer uma das seguintes formas de Conteúdo do Usuário (conforme definido abaixo) por meio do Serviço:
 
-Conteúdo do Usuário que viola os direitos de terceiros (por exemplo, direitos autorais) de acordo com as leis relevantes;
-
+- Conteúdo do Usuário que viola os direitos de terceiros (por exemplo, direitos autorais) de acordo com as leis relevantes;
 - Conteúdo do Usuário excessivamente ofensivo;
 - Conteúdo do Usuário que promove ódio ou violência;
 - Conteúdo do Usuário que endossa a intolerância racial ou étnica;
@@ -70,14 +69,16 @@ Informações detalhadas sobre esses limites podem ser encontradas em https://bo
 ## Sua interação com o Conteúdo do Serviço
 Além das limitações gerais mencionadas acima, as seguintes restrições e disposições se aplicam especificamente à sua interação com o conteúdo acessível por meio do Serviço, incluindo marcas registradas, marcas de serviço e logotipos ("Marcas") apresentados no Serviço, coletivamente referidos como "Conteúdo do Serviço".
 
-A propriedade ou licenciamento do Conteúdo do Serviço pertence à bohr.io ou a outras entidades e é protegida por direitos autorais e outros direitos de propriedade intelectual conforme estabelecido pela lei. O Conteúdo do Serviço é fornecido a você "como está". Você pode acessar o Conteúdo do Serviço exclusivamente para uso informativo e pessoal em conformidade com estes Termos. Você não está autorizado a baixar nenhum Conteúdo do Serviço a menos que um link de "download" ou equivalente seja apresentado pela bohr.io para aquele Conteúdo do Serviço em particular.
+A propriedade ou licenciamento do Conteúdo do Serviço pertence à bohr.io ou a outras entidades e é protegida por direitos autorais e outros direitos de propriedade intelectual conforme estabelecido pela lei. O Conteúdo do Serviço é fornecido a você "como está". Você pode acessar o Conteúdo do Serviço exclusivamente para uso informativo e pessoal em conformidade com estes Termos. Você não está autorizado a baixar nenhum Conteúdo do Serviço a menos que um link de download ou equivalente seja apresentado pela bohr.io para aquele Conteúdo do Serviço em particular.
 
-Exceto conforme delineado na seção "Conteúdo de Código Aberto e Gerado pelo Usuário" abaixo, você deve se abster de copiar, replicar, distribuir, transmitir, transmitir, exibir, vender, licenciar ou de outra forma explorar qualquer Conteúdo do Serviço para fins alternativos sem o consentimento prévio por escrito da bohr.io ou dos licenciadores relevantes desse Conteúdo do Serviço. A bohr.io e seus licenciadores retêm todos os direitos não concedidos explicitamente em relação ao Serviço e ao Conteúdo do Serviço.
+Exceto conforme delineado na seção "Conteúdo de Código Aberto e Gerado pelo Usuário" abaixo, você deve se abster de copiar, replicar, distribuir, transmitir, exibir, vender, licenciar ou de outra forma explorar qualquer Conteúdo do Serviço para fins alternativos sem o consentimento prévio por escrito da bohr.io ou dos licenciadores relevantes desse Conteúdo do Serviço. A bohr.io e seus licenciadores retêm todos os direitos não concedidos explicitamente em relação ao Serviço e ao Conteúdo do Serviço.
 
 Você se compromete a não ignorar, desativar ou interferir de outra forma com recursos de segurança do Serviço ou recursos que dificultem ou limitem a utilização ou duplicação de qualquer Conteúdo do Serviço ou imponham restrições ao uso do Serviço ou Conteúdo do Serviço. Ao usar o Serviço, você reconhece que encontrará Conteúdo do Serviço de diversas fontes e a bohr.io não é responsável pela precisão, utilidade, segurança ou direitos de propriedade intelectual associados a tal Conteúdo do Serviço. Além disso, você reconhece que pode encontrar Conteúdo do Serviço que é incorreto, ofensivo, inadequado ou objetável.
 
 ## Conteúdo Gerado pelo Usuário
-Através do nosso Serviço, você tem a capacidade de publicar, vincular, armazenar, compartilhar e disponibilizar de outras formas diversos tipos de informações, códigos, textos, gráficos, vídeos ou outros materiais ("Conteúdo Gerado pelo Usuário"). Uma vez que nosso Serviço engloba um editor de código e um gerenciador de arquivos para o upload de Conteúdo Gerado pelo Usuário, você tem controle total sobre a natureza e o tipo de conteúdo que você faz upload. Consequentemente, você (e não a bohr.io) é responsável pelo Conteúdo Gerado pelo Usuário que você posta no Serviço, incluindo sua legalidade, confiabilidade e adequação.
+Através do nosso Serviço, você tem a capacidade de publicar, vincular, armazenar, compartilhar e disponibilizar de outras formas diversos tipos de informações, códigos, textos, gráficos, vídeos ou outros materiais ("Conteúdo Gerado pelo Usuário"). Uma vez que nosso Serviço engloba um editor de código e um gerenciador de arquivos para o upload de Conteúdo Gerado pelo Usuário, você tem controle total sobre a natureza e o tipo de conteúdo que você faz upload. 
+
+Consequentemente, você (e não a bohr.io) é responsável pelo Conteúdo Gerado pelo Usuário que você posta no Serviço, incluindo sua legalidade, confiabilidade e adequação.
 Ao postar ou gerar Conteúdo Gerado pelo Usuário no Serviço, você afirma e garante que: (i) a menos que estipulado na seção "Conteúdo de Código Aberto e Conteúdo do Usuário" abaixo, o Conteúdo Gerado pelo Usuário pertence a você (você é o legítimo proprietário) e/ou você possui os direitos necessários para utilizá-lo, juntamente com a autoridade para nos conceder os direitos e a licença descritos nestes Termos, e (ii) o ato de postar seu Conteúdo Gerado pelo Usuário no Serviço não viola os direitos de privacidade, direitos de publicidade, direitos autorais, direitos contratuais, direitos de propriedade intelectual ou quaisquer outros direitos de qualquer indivíduo ou entidade. Reservamos o direito de encerrar a conta de qualquer pessoa que seja encontrada violando direitos autorais ou quaisquer outros direitos de propriedade intelectual.
 
 Com exceção da seção "Conteúdo de Código Aberto e Conteúdo do Usuário" abaixo, você mantém todos os seus direitos sobre qualquer Conteúdo Gerado pelo Usuário que você envia, posta ou exibe no Serviço, e é sua responsabilidade proteger esses direitos. Não assumimos qualquer responsabilidade e, a menos que proibido por lei, renunciamos a qualquer responsabilidade pelo Conteúdo Gerado pelo Usuário postado por você ou por terceiros no Serviço. No entanto, ao postar Conteúdo Gerado pelo Usuário usando o Serviço, você nos concede um direito e licença não exclusivos, globais, livres de royalties, totalmente pagos, sublicenciáveis e transferíveis para utilizar, modificar, realizar publicamente, exibir publicamente, reproduzir e distribuir tal Conteúdo Gerado pelo Usuário no Serviço, de acordo com estes Termos e nossa Política de Privacidade. Você concorda com esta licença, que inclui o direito de disponibilizar seu Conteúdo Gerado pelo Usuário para outros usuários do Serviço, que também podem usar seu Conteúdo Gerado pelo Usuário de acordo com estes Termos.
@@ -102,7 +103,7 @@ Se você pretende fazer uma compra ("Compra") de qualquer produto ou serviço of
 
 Você afirma que: (i) possui a autorização legal para usar qualquer cartão de crédito(s) ou método(s) de pagamento em relação a qualquer Compra; e (ii) as informações que você fornece a nós são precisas, verdadeiras e completas.
 
-Nos reservamos o direito de recusar ou cancelar seu pedido por diversos motivos, incluindo, mas não se limitando à indisponibilidade de produtos ou serviços, imprecisões nas descrições ou preços de produtos ou serviços, erros em seu pedido, suspeitas de fraude ou transações não autorizadas/ilegais.
+Nos reservamos o direito de recusar ou cancelar seu pedido por diversos motivos, incluindo - mas não se limitando à - indisponibilidade de produtos ou serviços, imprecisões nas descrições ou preços de produtos ou serviços, erros em seu pedido, suspeitas de fraude ou transações não autorizadas/ilegais.
 
 ## Disponibilidade, erros e inexatidões
 Nossos produtos e serviços oferecidos no Serviço são frequentemente atualizados. No entanto, pode haver atrasos na atualização das informações no Serviço e em outras plataformas onde fazemos publicidade. Produtos ou serviços podem ser descontinuados, precificados de forma incorreta, descritos de maneira imprecisa ou indisponíveis no Serviço.
@@ -116,11 +117,11 @@ Ao registrar uma conta em nosso Serviço, você reconhece que ocasionalmente pod
 Quaisquer concursos, sorteios ou outras atividades promocionais ("Promoções") oferecidas por meio do Serviço podem ser regidos por regras separadas, além destes Termos. Se você participar de qualquer Promoção, por favor, revise as regras específicas juntamente com nossa Política de Privacidade. Se as regras de uma Promoção entrarem em conflito com estes Termos, as regras da Promoção terão precedência.
 
 ## Contas; Política de Encerramento de Conta
-A menos que você seja um usuário estudante do _Teams for Education_, você deve ter pelo menos 13 anos para usar o Serviço. No entanto, crianças de todas as idades podem utilizar o Serviço se autorizadas por um pai ou responsável legal. Se você tiver menos de 18 anos, declara que obteve permissão de seu pai ou responsável legal para usar o Serviço. Encorajamos que eles leiam estes Termos junto com você.
+A menos que você seja um usuário estudante do _Teams for Education_, você deve ter pelo menos 13 anos para usar o Serviço. No entanto, crianças de todas as idades podem utilizar o Serviço se autorizadas por um pai ou responsável legal. Se você tiver menos de 18 anos, declara que obteve permissão de um pai ou responsável legal para usar o Serviço. Encorajamos que eles leiam estes Termos junto com você.
 
 Para pais ou responsáveis legais de usuários com menos de 18 anos, permitir que seu filho use o Serviço sujeita você aos termos deste Contrato e o torna responsável pelas ações de seu filho no Serviço.
 
-Ao criar uma conta conosco, você garante que as informações que você fornece são precisas, completas e atualizadas em todos os momentos. Não fornecer informações precisas, completas ou atualizadas pode levar ao encerramento imediato de sua conta.
+Ao criar uma conta conosco, você garante que as informações fornecidas são precisas, completas e atualizadas em todos os momentos. Não fornecer informações precisas, completas ou atualizadas pode levar ao encerramento imediato de sua conta.
 
 Proteger a confidencialidade de sua conta e senha é sua responsabilidade, incluindo restringir o acesso ao seu computador e/ou conta. Você concorda em assumir a responsabilidade por qualquer atividade ou ação que ocorra em sua conta e/ou senha, seja por meio de nosso Serviço ou de uma plataforma de terceiros. Informe-nos imediatamente se você suspeitar de qualquer violação de segurança ou uso não autorizado de sua conta.
 
@@ -143,7 +144,8 @@ Você tem a opção de apresentar uma notificação de acordo com o Digital Mill
 
 - Assinatura eletrônica ou física de um representante autorizado do detentor dos direitos autorais;
 - Uma descrição da obra protegida por direitos autorais alegadamente violada, incluindo o URL (endereço da página da web) onde a obra protegida por direitos autorais está acessível ou uma cópia da obra protegida por direitos autorais;
-- Identificação do URL preciso ou de outra localização específica no Serviço onde o material supostamente infrator está situado; Seu endereço de correspondência, número de telefone e endereço de e-mail;
+- Identificação do URL preciso ou de outra localização específica no Serviço onde o material supostamente infrator está situado;
+- Seu endereço de correspondência, número de telefone e endereço de e-mail;
 - Uma declaração sua, sob pena de perjúrio, afirmando sua crença de boa-fé de que o uso contestado não é autorizado pelo detentor dos direitos autorais, seu representante ou pela lei;
 - Uma declaração sua, sob pena de perjúrio, afirmando a precisão das informações em seu aviso e seu status como detentor dos direitos autorais ou representante autorizado.
 
@@ -168,7 +170,7 @@ Sua conta pode ser encerrada ou suspensa, e o acesso ao Serviço revogado, imedi
 
 Caso deseje encerrar sua conta, visite a sua página de configurações de conta e selecione a opção "Deletar Conta".
 
-Todas as disposições destes Termos que, por sua natureza, devem sobreviver ao término, permanecerão em vigor. Isso inclui, mas não se limita a, disposições de propriedade, exclusões de garantia, indenização e limitações de responsabilidade.
+Todas as disposições destes Termos que, por sua natureza, devem sobreviver ao término, permanecerão em vigor. Isso inclui - mas não se limita a - disposições de propriedade, exclusões de garantia, indenização e limitações de responsabilidade.
 
 
 

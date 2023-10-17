@@ -2,18 +2,16 @@
 sidebar_position: 6
 ---
 
-# Domínios
+# Domains
 
 <div style={{textAlign: 'center'}}><iframe width="560" height="315" src="https://www.youtube.com/embed/yDTs9YMLDFY" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen style={{ maxWidth: '100%' }}></iframe></div>
 
-No bohr.io é possível adicionar um domínio para utilizar dentro dos seus sites.
-Na primeira vez que você adicionar um domínio, você irá para a seção **Setting the nameservers**, com orientações sobre como configurar os nameservers no seu gerenciador de domínios.
+In bohr.io, you can add a domain for use within your websites. The first time you add a domain, you will go to the **"Setting the nameservers"** section, with instructions on how to configure the nameservers in your domain manager.
 
-Uma vez que esse domínio tenha sido validado e adicionado aos nameservers, você poderá editar as chaves de DNS.
+Once this domain has been validated and added to the nameservers, you can edit the DNS keys.
 
-Na mesma área você pode configurar serviços como o recebimento de e-mails por esse domínio.
-Em **Settings ⇾ General**, selecionando um ambiente (como, por exemplo, a branch `main`), você pode editar a URL e usar o seu domínio.
+In the same area, you can configure services like receiving emails for this domain. In **Settings ⇾ General**, selecting an environment (such as the main `branch`), you can edit the URL and use your domain.
 
-:::caution Importante
-Você não pode usar `.` antes do seu domínio, pois se trata de **Tier 1** de subdomínios. Só é possível usar o caractere `-`.
-:::
+> ⚠️ IMPORTANT - 
+You cannot use a period (.) before your domain because it belongs to **Tier 1** subdomains. You can only use the hyphen (-) character.
+

@@ -8,17 +8,16 @@ sidebar_position: 18
 
 The **Dashboard Template** comes with some pre-configured environment variables for compilation, including a connection string to a database hosted on **PlanetScale**. This database doesn't accept structural changes, only data changes.
 
+To access it, click on "**Publish**". bohr.io will publish both the front end and the API, which will already be connected to the database.
 
-Para acessá-lo, basta clicar em **Publish**. O bohr.io fará a publicação, tanto do front-end quanto da API, a qual já estará conectada ao banco de dados.
+Simultaneously, bohr.io will create the repository on GitHub. You can check its creation by clicking on the GitHub icon in the upper right corner.
 
-Paralelamente, o bohr.io irá criar o repositório no GitHub. Você pode verificar a sua criação clicando no ícone do GitHub no canto superior direito.
+You can view the code using **Visual Studio Code for Web** by clicking in the upper right corner. There, you will find an API folder. bohr.io uses [**Prisma**](https://www.prisma.io/ "Prisma"), which is an ORM (_object-relational mapping_) for database management.
 
-Você pode olhar o código por meio do **Visual Studio Code for Web**, clicando no canto superior direito. Lá você verá uma pasta API. O bohr.io usa o [**Prisma**](https://www.prisma.io/ "Prisma"), que é uma ORM (_object-relational mapping_) para lidar com o banco de dados.
+In the code, you will also see a simple API that handles user CRUD operations.
 
-No código você verá também uma API simples que lida com o CRUD de usuários.
+The Dashboard Template is integrated with **reCAPTCHA** (you can change the key later). For your convenience, an instant login and password are provided, but you can change both.
 
-O Template de Dashboard está integrado com **reCAPTCHA** (você pode trocar a chave depois). Para facilitar o seu acesso, login e senha estão fixos, mas você pode alterar ambos.
+Upon entering, you will see an example of the API making requests directly to the database. On this screen, you can modify the data.
 
-Ao entrar, você verá o exemplo da API, fazendo requisições diretamente no banco de dados. Nessa tela, você poderá modificar os dados.
-
-Este template possui documentação no formato **OpenAPI**. Para acessá-la, basta adicioanr `/doc` no final da URL, onde você poderá chamar os métodos diretamente para a criação de usuários, por exemplo.
+This template has documentation in **OpenAPI** format. To access it, add `/doc` to the end of the URL, where you can directly call methods for user creation, for example.

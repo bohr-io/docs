@@ -6,12 +6,13 @@ sidebar_position: 15
 
 <div style={{textAlign: 'center'}}><iframe width="560" height="315" src="https://www.youtube.com/embed/yXQswsMDC1Q" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen style={{ maxWidth: '100%' }}></iframe></div>
 
-Atualmente, o bohr.io disponibiliza alguns templates gratuitos livres para uso:
+Currently, bohr.io offers some free templates for use, for example:
 
-- **Portólio Simples**: Integrado com a funcionalidade de Edição de Conteúdo direto na página;
-- **Portólio com build em Gatsby**: Como usar **_Static Site Generation_** com Gatsby;
-- **Dashboard com CRUD básico com PlanetScale**: Um exemplo de como usar o PlanetScale para criar um CRUD básico;
+- **Simple Portfolio:** Integrated with direct content editing on the page.
+- **Gatsby-powered Portfolio:** How to use Static Site Generation with Gatsby.
+- **Dashboard with Basic CRUD using PlanetScale:** An example of how to use PlanetScale to create a basic CRUD.
+- **Speed test using the Cloudflare API:** that you can generate and customize.
+- **NextJS:** Two NextJS templates.
+- **PHP:** Basic PHP template.
 
-- **teste de velocidade usando a API da Cloudflare** que você pode gerar e customizar.
-
-Estamos sempre ampliando o número de templates, inclusive é possível utilizar templates criados por usuários da comunidade.
+We are constantly expanding the number of templates, and it's even possible to use templates created by community users.

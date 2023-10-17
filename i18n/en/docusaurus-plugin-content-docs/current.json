@@ -1,0 +1,34 @@
+{
+  "version.label": {
+    "message": "Next",
+    "description": "The label for version current"
+  },
+  "sidebar.tutorialSidebar.category.Utilizando o Bohr": {
+    "message": "Using Bohr",
+    "description": "The label for category Utilizando o Bohr in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Templates": {
+    "message": "Templates",
+    "description": "The label for category Templates in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Frameworks": {
+    "message": "Frameworks",
+    "description": "The label for category Frameworks in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Configurações do Projeto": {
+    "message": "Configurações do Projeto",
+    "description": "The label for category Configurações do Projeto in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Domínios": {
+    "message": "Domains",
+    "description": "The label for category Domínios in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.doc.Introdução": {
+    "message": "Introduction",
+    "description": "The label for the doc item Introdução in sidebar tutorialSidebar, linking to the doc start"
+  },
+  "sidebar.tutorialSidebar.doc.Domínios": {
+    "message": "Domains",
+    "description": "The label for the doc item Domínios in sidebar tutorialSidebar, linking to the doc domains"
+  }
+}

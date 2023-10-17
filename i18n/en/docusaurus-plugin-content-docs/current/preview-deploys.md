@@ -6,18 +6,20 @@ sidebar_position: 5
 
 <div style={{textAlign: 'center'}}><iframe width="560" height="315" src="https://www.youtube.com/embed/dhCFLx4qvFk" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen style={{ maxWidth: '100%' }}></iframe></div>
 
-**_Preview Deploys_** são todas as publicações que não estão em ambiente de produção, ou seja, não são as publicações principais.
+***Preview Deployments*** are all publications not in the production environment, meaning they are not the central publications.
 
-Normalmente, existem 3 categorias de preview deploys:
+Usually, there are three categories of preview deployments:
 
 - `branches`
 - `pull requests`
 - `releases`
 
-Por enquanto, o bohr.io suporta somente as branches. Os ambientes de `pull request` e `release` fazem parte do nosso Roadmap.
+For now, bohr.io only supports branches. The environments for `pull requests` and `releases` are part of our Roadmap.
 
-O ambiente dos _preview deploys_ é atualizado a cada novo `commit` na `branch`, com a criação de um preview deploy para cada `branch`.
+The *preview deployments* environment is updated with each new `commit` to the `branch`, creating a preview deployment for each branch.
 
-Você pode clicar em **View site** para visualizar diretamente a `branch` em questão.
+You can click on "View Website" to directly preview the specific `branch`.
 
-Você pode alternar também entre as branches acessando a caixa de seleção disponível na barra de navegação.
+You can also switch between branches by using the selection box available in the navigation bar.
+
+

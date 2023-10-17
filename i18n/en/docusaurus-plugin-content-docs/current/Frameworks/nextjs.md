@@ -1,29 +1,30 @@
 # Next.js
 
-A plataforma Bohr.io fornece duas principais opções para implantar projetos que utilizam o framework Next.js. Este guia irá ajudá-lo a entender e escolher a opção que melhor atende às suas necessidades.
+The bohr.io platform provides two main options for deploying projects using the Next.js framework. This guide will help you understand and choose the option that best suits your needs.
 
-## Opção 1: Static Export (Recomendado)
+## Option 1: Static Export (Recommended)
 
-A primeira e recomendada opção é utilizando o **Static Export**, que era conhecido como `next export`. Isso envolve a adição de um atributo `output: 'export'` no seu arquivo `next.config.js`.
+The first and recommended option is to use **Static Export**, which was formerly known as `next export`. This involves adding an attribute `output: 'export'` to your next.config.js file.
 
-Leia mais sobre como configurar a exportação estática na [documentação oficial do Next.js](https://nextjs.org/docs/pages/building-your-application/deploying/static-exports).
 
-### Benefícios
+Read more about configuring static export in the [oficial Next.js documentation](https://nextjs.org/docs/pages/building-your-application/deploying/static-exports).
 
-- O front-end é servido diretamente pela camada Edge da Bohr.io, o que resulta na menor latência possível para os usuários.
+### Benefits
+
+- The front end is served directly by bohr.io's edge layer, resulting in the lowest possible latency for users.
 
 ### Limitações
 
-- O Image Optimization fica desabilitado.
-- Outras funcionalidades que dependem de SSR (Server-Side Rendering) não estão disponíveis.
+- Image Optimization is disabled.
+- Other features that depend on Server-Side Rendering (SSR) are not available.
 
-### Como Utilizar
+### How to Use
 
-1. Utilize o template `next-blog-starter` para criar um novo projeto com esta configuração:
+1. Use the `next-blog-starter` template to create a new project with this configuration:
 
-    [Criar novo repositório com o template](https://bohr.io/createRepository?sampleUrl=https://github.com/bohr-io/next-blog-starter)
+    [Create a new repository with the template](https://bohr.io/createRepository?sampleUrl=https://github.com/bohr-io/next-blog-starter)
 
-2. Certifique-se de que as seguintes variáveis de ambiente estão presentes:
+2. Make sure the following environment variables are present:
 
     ```
     BUILD_CMD=npx next build && npx next export
@@ -32,24 +33,23 @@ Leia mais sobre como configurar a exportação estática na [documentação ofic
     PUBLIC_PATH=./out
     DEPLOY_PATH=./
     ```
-3. Em caso de não utilizar o template `next-blog-starter`, é necessário desabilitar o Image Optimization no arquivo `next.config.js`:
+3. If you are not using the `next-blog-starter` template, it is necessary to disable Image Optimization in the `next.config.js` file:
     ```
     images: {
         unoptimized: true
     }
     ```
+## Option 2: Experimental SSR Support
 
-## Opção 2: Suporte Experimental para SSR
+The second option is to enable experimental support for Server-Side Rendering (SSR) by creating environment variables.
 
-A segunda opção é habilitar o suporte experimental para SSR (Server-Side Rendering) através da criação de variáveis de ambiente.
+### How to Use
 
-### Como Utilizar
+1. Use the `nextjs-template` template to create a new project with SSR settings enabled:
 
-1. Utilize o template `nextjs-template` para criar um novo projeto com as configurações de SSR habilitadas:
+    [Create a new repository with the template](https://bohr.io/createRepository?sampleUrl=https://github.com/bohr-io/nextjs-template)
 
-    [Criar novo repositório com o template](https://bohr.io/createRepository?sampleUrl=https://github.com/bohr-io/nextjs-template)
-
-2. Certifique-se de que as seguintes variáveis de ambiente estão presentes:
+2. Make sure the following environment variables are present:
 
     ```
     BOHR_WEB_ADAPTER=1
@@ -61,13 +61,14 @@ A segunda opção é habilitar o suporte experimental para SSR (Server-Side Rend
     DEPLOY_PATH=./
     ```
 
-3. É necessário também adicionar a seguinte configuração ao arquivo `next.config.js`:
+3. You also need to add the following configuration to the `next.config.js` file:
+
     ```
     module.exports = {
         output: 'standalone',
     }
     ```
+## Conclusion 
 
-## Conclusão
+Choose the option that best suits your project's needs. Static Export is generally faster and offers lower latency but has some limitations. Experimental SSR support can be helpful if you need features that depend on server-side rendering.
 
-Escolha a opção que melhor se adequa às necessidades do seu projeto. O Static Export é geralmente mais rápido e oferece menor latência, mas possui algumas limitações. O suporte experimental para SSR pode ser útil se você precisar de funcionalidades que dependem da renderização no servidor.

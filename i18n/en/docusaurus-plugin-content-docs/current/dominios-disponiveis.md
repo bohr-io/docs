@@ -2,9 +2,9 @@
 sidebar_position: 10
 ---
 
-# Domínios disponíveis
+# Available Domains
 
-Lista de domínios disponíveis para registro:
+List of available domains for registration:
 
 ```
 .com

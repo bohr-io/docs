@@ -2,16 +2,8 @@
 sidebar_position: 11
 ---
 
-# Versão do node.js 
-
-Para realizar a troca da versão do nodejs, basta acessar seu projeto no [bohr.io](https://bohr.io "borh.io"), ir em Configurações, Variáveis de ambiente e adicionar a variável BOHR_FUNCTION_RUNTIME com algum dos valores abaixo:
-
-- `nodejs16.x`
-- `nodejs18.x`
-- `nodejs20.x`
-
 # Node.js Version
-
+ 
 To change the Node.js version, access your project on bohr.io, go to Settings, Environment Variables, and add the variable BOHR_FUNCTION_RUNTIME with one of the values below:
 
 - `Nodejs16.x`

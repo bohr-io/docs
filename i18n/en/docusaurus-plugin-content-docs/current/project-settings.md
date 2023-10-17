@@ -2,7 +2,7 @@
 sidebar_position: 4
 ---
 
-# Configurações de Projeto
+# Project Settings
 
 <div style={{textAlign: 'center'}}><iframe width="560" height="315" src="https://www.youtube.com/embed/djtSHk-fqrs" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen style={{ maxWidth: '100%' }}></iframe></div>
 

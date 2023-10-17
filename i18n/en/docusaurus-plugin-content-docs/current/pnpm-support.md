@@ -1,4 +1,4 @@
-Para utilizar o pnpm, adicione o seguinte no seu arquivo: "/.github/workflows/bohr.yml", logo após a linha "- uses: actions/checkout@v3":
+To use pnpm, add the following to your file: "/.github/workflows/bohr.yml," right after the line "- uses: actions/checkout@v3":
 
 ```
       - run: corepack enable
@@ -10,7 +10,8 @@ Para utilizar o pnpm, adicione o seguinte no seu arquivo: "/.github/workflows/bo
           cache: pnpm
 ```
 
-Exemplo de arquivo completo (a identação correta é obrigatória):
+Example of a complete file (correct indentation is mandatory):
+
 ```
 name: bohr.io deploy
 on: 

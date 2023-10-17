@@ -16,7 +16,7 @@
     "description": "The label for category Frameworks in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.Configurações do Projeto": {
-    "message": "Configurações do Projeto",
+    "message": "Project Settings",
     "description": "The label for category Configurações do Projeto in sidebar tutorialSidebar"
   },
   "sidebar.tutorialSidebar.category.Domínios": {

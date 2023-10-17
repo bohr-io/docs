@@ -23,8 +23,17 @@ const config = {
   // metadata like html lang. For example, if your site is Chinese, you may want
   // to replace "en" with "zh-Hans".
   i18n: {
-    defaultLocale: 'en',
-    locales: ['en'],
+    defaultLocale: 'pt',
+    locales: ['pt','en'],
+    localeConfigs: {
+      pt: {
+        htmlLang: 'en-GB',
+      },
+      // You can omit a locale (e.g. fr) if you don't need to override the defaults
+      fa: {
+        direction: 'rtl',
+      },
+    },
   },
 
   presets: [
@@ -84,6 +93,10 @@ const config = {
           position: 'right',
           className: 'button button--default button--lg bohr-login-button'
         },
+        {
+          type: 'localeDropdown',
+          position: 'left',
+        },        
       ],
     },
     footer: {

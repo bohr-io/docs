@@ -57,7 +57,7 @@ A segunda opção é habilitar o suporte experimental para SSR (Server-Side Rend
     INSTALL_CMD=npm install
     BUILD_CMD=npm run build
     DEV_CMD=npx next dev --port $PORT
-    PUBLIC_PATH=./public
+    PUBLIC_PATH=./
     DEPLOY_PATH=./
     ```
 

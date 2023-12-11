@@ -17,4 +17,4 @@ cd app-template
 npx -y bohr@latest dev
 ```
 
-If the environment variable settings and development commands are correct, the command will run smoothly. If you find any trouble, you can reach out on [Discord](https://discord.com/invite/p3hhfGg2Uy).
+As long as the environment variable settings and development commands are correct, the command will run smoothly. If you find any trouble, you can reach out on [Discord](https://discord.com/invite/p3hhfGg2Uy).

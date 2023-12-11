@@ -11,7 +11,7 @@ Currently, bohr.io offers some free templates for use, for example:
 - **Simple Portfolio:** Integrated with direct content editing on the page.
 - **Gatsby-powered Portfolio:** How to use Static Site Generation with Gatsby.
 - **Dashboard with Basic CRUD using PlanetScale:** An example of how to use PlanetScale to create a basic CRUD.
-- **Speed test using the Cloudflare API:** that you can generate and customize.
+- **Speed test using the Cloudflare API** that you can generate and customize.
 - **NextJS:** Two NextJS templates.
 - **PHP:** Basic PHP template.
 

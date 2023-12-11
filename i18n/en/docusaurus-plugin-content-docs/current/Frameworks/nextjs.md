@@ -4,7 +4,7 @@ The bohr.io platform provides two main options for deploying projects using the 
 
 ## Option 1: Static Export (Recommended)
 
-The first and recommended option is to use **Static Export**, which was formerly known as `next export`. This involves adding an attribute `output: 'export'` to your next.config.js file.
+The first - and recommended - option is **Static Export**, formerly known as next export. You must add an attribute output: 'export' to your next.config.js file.
 
 
 Read more about configuring static export in the [oficial Next.js documentation](https://nextjs.org/docs/pages/building-your-application/deploying/static-exports).
@@ -33,7 +33,7 @@ Read more about configuring static export in the [oficial Next.js documentation]
     PUBLIC_PATH=./out
     DEPLOY_PATH=./
     ```
-3. If you are not using the `next-blog-starter` template, it is necessary to disable Image Optimization in the `next.config.js` file:
+3. If you are not using the `next-blog-starter` template, it is necessary to turn off the Image Optimization in the `next.config.js` file:
     ```
     images: {
         unoptimized: true

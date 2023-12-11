@@ -14,12 +14,12 @@ Usually, there are three categories of preview deployments:
 - `pull requests`
 - `releases`
 
-For now, bohr.io only supports branches. The environments for `pull requests` and `releases` are part of our Roadmap.
+For now, bohr.io only supports branches. The environments for `pull requests` and `releases` are on bohr.io's Roadmap.
 
 The *preview deployments* environment is updated with each new `commit` to the `branch`, creating a preview deployment for each branch.
 
-You can click on "View Website" to directly preview the specific `branch`.
+You can click "View Website" to directly preview the specific `branch`.
 
-You can also switch between branches by using the selection box available in the navigation bar.
+You can also switch between branches using the selection box available in the navigation bar.
 
 

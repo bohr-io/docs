@@ -4,7 +4,7 @@ sidebar_position: 30
 
 # Fair Use Policy
 
-All subscription plans incorporate usage that is subject to this Fair Use policy. Presented below is a guideline to help determine which projects fall within our definition of "Fair Use" and which do not.
+All subscription plans incorporate usage that is subject to this Fair Use Policy. Here is a guideline to help determine which projects fall within our definition of "Fair Use" and which do not.
 
 
 ## Examples of Acceptable Use
@@ -42,7 +42,7 @@ As a guideline for our community, we anticipate that most users will fall within
 
 ### Additional recommendations
 
-**CPU Usage Limit for Edge Middleware** - Edge Middleware is advised to utilize an average CPU time of no more than 50ms. This constraint pertains to the effective net CPU time, excluding execution time. For instance, periods spent waiting for network responses during communication do not contribute to the CPU time restrictions.
+**CPU Usage Limit for Edge Middleware** - Edge Middleware is advised to utilize an average CPU time of no more than 50ms. This constraint pertains to the actual net CPU time, excluding execution time. For instance, periods waiting for network responses during communication do not contribute to the CPU time restrictions.
 
 ### Extra resources availability
 
@@ -58,19 +58,18 @@ For participants in our Pro plan, we introduce a pay-as-you-go structure for sup
 
 ## Usage for Profit
 
-Hobby accounts are limited to non-commercial personal use exclusively. Any utilization of the platform for commercial purposes necessitates a Pro or Enterprise plan.
+Hobby accounts are limited to non-commercial personal use exclusively. Any platform utilization for commercial purposes necessitates a Pro or Enterprise plan.
 
-Commercial usage is described as any Deployment utilized for the intention of generating financial gains for any entity or individual involved in any aspect of project production. This encompasses paid employees or consultants engaged in code development. Instances of this include, though are not confined to, the subsequent:
-
+Commercial usage is any deployment with the intentional generation of financial gains for any entity or individual involved in any aspect of project production. This encompasses paid employees or consultants engaged in code development.  Instances of this include, though are not confined to, the subsequent:
 
 - Any method of soliciting or handling payments from site visitors.
 - Promotion of product or service sales.
 - Receipt of compensation for site creation, maintenance, or hosting.
-- Primary use of affiliate links on the site.
+- The primary use of affiliate links on the site.
 - Incorporation of advertisements, including online advertising platforms like Google AdSense.
 - Soliciting donations does not qualify as commercial usage.
 
-If there is uncertainty about whether your site qualifies as commercial usage, please contact the bohr.io Support team.
+If you're unsure if your site qualifies for commercial usage, contact the bohr.io Support team.
 
 ## General Boundaries
 
@@ -78,7 +77,7 @@ Please review our Limits documentation to familiarize yourself with the limitati
 
 ## Further Details
 
-Circumventing or misusing bohr.io's limits or usage guidelines constitutes a violation of our Fair Use Policy.
+Circumventing or misusing bohr.io's limits or usage guidelines constitutes a Fair Use Policy violation.
 
 For additional information about this policy and acceptable use of our Services, kindly refer to our Terms of Service or your Enterprise Service Agreement.
 

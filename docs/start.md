@@ -59,13 +59,23 @@ Agora, você também já pode criar um repositório no GitHub para seu novo proj
 Então, você pode agora navegar para a página do seu novo projeto e aproveitar do CI/CD do Bohr junto com as GitHub Actions para fazer deploys automáticos das suas alterações.
 ![página do projeto](https://github.com/bohr-io/docs/assets/69644385/4d4d21a9-9c50-44e0-a73b-4778f5f6c1a7)
 
+### Publicando o **back-end**
+
+Utilizando as **Bohr Functions** também é possível publicar seu **back-end** de forma fácil e rápida, para isso basta colocar sua API (em Node.js) na pasta "api/core" como mostrado abaixo.
+
+![Código back-end](https://github.com/bohr-io/portfolio-template/assets/69644385/d288c12c-6959-4ce2-ba42-51d432fcc63c)
+
+Para utilizar seu back-end, basta acessar a url do seu projeto adicionando o caminho "/api".
+
+![Acessando a API](https://github.com/bohr-io/portfolio-template/assets/69644385/ab28aa07-0229-4572-b505-f8dffd46c365)
+
 ## Funcionalidades
 
 Conheça outros recursos da plataforma:
 
 ### Fullstack
 
-Você pode publicar projetos com **front-end** e **back-end**. Basta colocar sua API (em Node.js) na pasta API. Você pode obter mais informações no template [Dashboard](https://docs.bohr.io/docs/dashboard-template), por exemplo.
+Você pode publicar projetos com **front-end** e **back-end**. Basta colocar sua API (em Node.js) na pasta API. Você pode obter mais informações no template [Dashboard](https://docs.bohr.io/docs/Templates/dashboard-template), por exemplo.
 
 ### Logs
 

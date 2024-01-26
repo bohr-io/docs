@@ -34,12 +34,6 @@ Read more about configuring static export in the [oficial Next.js documentation]
     DEPLOY_PATH=./
     ```
 
-    If you are using version 14 of Next, also add the following values:
-
-    ```
-    BOHR_FUNCTION_RUNTIME=nodejs18.x
-    ```
-
 3. If you are not using the `next-blog-starter` template, it is necessary to turn off the Image Optimization in the `next.config.js` file:
     ```
     images: {
@@ -66,6 +60,12 @@ The second option is to enable experimental support for Server-Side Rendering (S
     DEV_CMD=npx next dev --port $PORT
     PUBLIC_PATH=./public
     DEPLOY_PATH=./
+    ```
+
+    If you are using version 14 of Next, also add the following values:
+
+    ```
+    BOHR_FUNCTION_RUNTIME=nodejs18.x
     ```
 
 3. You also need to add the following configuration to the `next.config.js` file:

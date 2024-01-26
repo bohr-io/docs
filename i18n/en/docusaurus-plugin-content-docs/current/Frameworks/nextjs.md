@@ -33,6 +33,13 @@ Read more about configuring static export in the [oficial Next.js documentation]
     PUBLIC_PATH=./out
     DEPLOY_PATH=./
     ```
+
+    If you are using version 14 of Next, also add the following values:
+
+    ```
+    BOHR_FUNCTION_RUNTIME=nodejs18.x
+    ```
+
 3. If you are not using the `next-blog-starter` template, it is necessary to turn off the Image Optimization in the `next.config.js` file:
     ```
     images: {

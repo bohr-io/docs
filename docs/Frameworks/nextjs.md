@@ -61,6 +61,12 @@ A segunda opção é habilitar o suporte experimental para SSR (Server-Side Rend
     DEPLOY_PATH=./
     ```
 
+    Caso esteja utilizando a versão 14 do Next, adicione também os seguintes valores: 
+
+    ```
+    BOHR_FUNCTION_RUNTIME=nodejs18.x
+    ```
+
 3. É necessário também adicionar a seguinte configuração ao arquivo `next.config.js`:
     ```
     module.exports = {

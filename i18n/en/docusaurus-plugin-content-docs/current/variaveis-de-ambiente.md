@@ -16,3 +16,8 @@ Currently, bohr.io uses some default environment variables, which can be modifie
 - `DEPLOY_PATH`
 - `PUBLIC_PATH`
 
+The nodeJS version is an example of an environment variable that can be added, as some frameworks require more up-to-date versions, such as Next 14, for example:
+
+```
+BOHR_FUNCTION_RUNTIME=nodejs18.x
+```

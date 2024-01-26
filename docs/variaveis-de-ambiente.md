@@ -15,3 +15,9 @@ Atualmente o bohr.io utiliza por padrão algumas variáveis de ambiente, as quai
 - `INSTALL_CMD`
 - `DEPLOY_PATH`
 - `PUBLIC_PATH`
+
+A versão do nodeJS é exemplo de variável de ambiente que pode ser adicionada, já que alguns frameworks exigem versões mais atualizadas como o Next 14 por exemplo: 
+
+```
+BOHR_FUNCTION_RUNTIME=nodejs18.x
+```
